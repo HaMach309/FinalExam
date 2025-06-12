@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fd51112-14c4-4670-8d77-b5f0f3b9c63c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="1xDe9gsclrBkMCgxgm6n7f9mHeb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCreateUser.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCustom.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CreateUserFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/Inteliji/src/test/java/dinhtester/runner/runTestSignin.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/selenium/thuchanh/src/test/java/dinhtester/runner/paralell.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/selenium/thuchanh/src/test/java/dinhtester/runner/runTestSignInWithFullDataProvider.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/selenium/thuchanh/src/test/java/dinhtester/runner/runTestSigninCustom.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SigninTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\In class\framework\src\test\java\dinhtester\runner" />
+      <recent name="E:\selenium\thuchanh\src\test\java\dinhtester\runner" />
+      <recent name="E:\selenium\thuchanh\src\main\java\dinhtester\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\selenium\thuchanh\src\main\resources" />
+      <recent name="E:\selenium\thuchanh\src" />
+      <recent name="E:\selenium\thuchanh\src\main\java\dinhtester\helper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.java.dinhtester.testcases" />
+      <recent name="test.java.dinhtester.pages" />
+      <recent name="test.java.dinhtester.base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCreateUser.xml">
+    <configuration name="C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCreateUser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CreateMavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/dinhtester/runner/runTestCreateUser.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCustom.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CreateMavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/dinhtester/runner/runTestCustom.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateUserFlow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CreateMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.dinhtester.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.dinhtester.testcases" />
+      <option name="MAIN_CLASS_NAME" value="test.java.dinhtester.testcases.CreateUserFlow" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/Inteliji/src/test/java/dinhtester/runner/runTestSignin.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CreateMavenProject" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/dinhtester/runner/runTestSignin.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.TestHTMLReporter" />
+        <listener class="org.testng.reporters.SuiteHTMLReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/selenium/thuchanh/src/test/java/dinhtester/runner/paralell.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CreateMavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/dinhtester/runner/paralell.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCustom.xml" />
+      <item itemvalue="TestNG.C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCreateUser.xml" />
+      <item itemvalue="TestNG.CreateUserFlow" />
+      <item itemvalue="TestNG.E:/Inteliji/src/test/java/dinhtester/runner/runTestSignin.xml" />
+      <item itemvalue="TestNG.E:/selenium/thuchanh/src/test/java/dinhtester/runner/paralell.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/Inteliji/src/test/java/dinhtester/runner/runTestSignin.xml" />
+        <item itemvalue="TestNG.C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCustom.xml" />
+        <item itemvalue="TestNG.C:/Users/Admin/Desktop/In class/framework/src/test/java/dinhtester/runner/runTestCreateUser.xml" />
+        <item itemvalue="TestNG.E:/selenium/thuchanh/src/test/java/dinhtester/runner/paralell.xml" />
+        <item itemvalue="TestNG.CreateUserFlow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fd51112-14c4-4670-8d77-b5f0f3b9c63c" name="Changes" comment="" />
+      <created>1629893949560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629893949560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+[INFO ] 13-06-2025 00:07:55 [main] Log - Start testing DocumentModule
+[INFO ] 13-06-2025 00:07:56 [main] Log - Set Excel File: C:\Users\Admin\Desktop\In class\framework\src\test\Resources\Testdata\account.xlsx
+[INFO ] 13-06-2025 00:07:56 [main] Log - Sheet Name: user
+[INFO ] 13-06-2025 00:07:56 [main] Log - Set Excel file C:\Users\Admin\Desktop\In class\framework\src\test\Resources\Testdata\account.xlsx
+[INFO ] 13-06-2025 00:07:56 [main] Log - Selected Sheet: user
+[INFO ] 13-06-2025 00:07:56 [main] Log - signInWithUser test is starting...
+[INFO ] 13-06-2025 00:07:56 [main] Log - Start testcase with user account
+[INFO ] 13-06-2025 00:07:59 [main] Log - Set text admin@example.com to By.xpath: //input[@name='email']
+[INFO ] 13-06-2025 00:07:59 [main] Log - Set text growcrm to By.xpath: //input[@name='password']
+[INFO ] 13-06-2025 00:07:59 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 13-06-2025 00:08:02 [main] Log - Verify current url page
+[INFO ] 13-06-2025 00:08:02 [main] Log - Get current url page
+[ERROR] 13-06-2025 00:08:02 [main] Log - signInWithUser test is failed.
+[INFO ] 13-06-2025 00:08:02 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (3daa10d886e83c69376bd21974ecad4e)
+[INFO ] 13-06-2025 00:08:02 [main] Log - Screenshot taken: signInWithUser
+[INFO ] 13-06-2025 00:08:02 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/home
+[INFO ] 13-06-2025 00:08:03 [main] Log - End testing DocumentModule
+[INFO ] 13-06-2025 00:08:06 [main] Log - Call tear down

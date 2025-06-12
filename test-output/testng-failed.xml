@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DMS]" guice-stage="DEVELOPMENT">
+  <parameter name="pathData" value="\src\test\Resources\Testdata\account.xlsx"/>
+  <parameter name="webUrl" value="https://demo.growcrm.io/login"/>
+  <parameter name="browserType" value="chrome"/>
+  <listeners>
+    <listener class-name="main.java.dinhtester.listener.ReportListener"/>
+  </listeners>
+  <test thread-count="5" name="DocumentModule(failed)">
+    <classes>
+      <class name="test.java.dinhtester.testcases.SignInTestWithHandleRole">
+        <methods>
+          <include name="tearDown"/>
+          <include name="signInWithUser" invocation-numbers="0"/>
+          <include name="initBaseSetup"/>
+        </methods>
+      </class> <!-- test.java.dinhtester.testcases.SignInTestWithHandleRole -->
+    </classes>
+  </test> <!-- DocumentModule(failed) -->
+</suite> <!-- Failed suite [DMS] -->
