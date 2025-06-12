@@ -33,7 +33,7 @@ public class SignPage {
         validateHelper.setText(emailInput, email);
         validateHelper.setText(passwordInput, password);
         validateHelper.clickElement(loginSubmitBtn);
-        Thread.sleep(3000); //sleep to wait verify
+        Thread.sleep(3000);
         return new DashboardPage(driver);
     }
 }
