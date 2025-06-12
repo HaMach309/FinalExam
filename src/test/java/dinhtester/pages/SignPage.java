@@ -34,7 +34,7 @@ public class SignPage {
         validateHelper.setText(passwordInput, password);
         validateHelper.clickElement(loginSubmitBtn);
         Thread.sleep(3000);
-        System.out.println("try maven jenskin 3");
+        System.out.println("try maven jenskin 5");
         return new DashboardPage(driver);
     }
 }
