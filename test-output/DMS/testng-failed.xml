@@ -9,13 +9,13 @@
   </listeners>
   <test thread-count="5" name="DocumentModule(failed)">
     <classes>
-      <class name="test.java.dinhtester.testcases.SignInTestWithHandleRole">
+      <class name="test.java.anhdltester.testcases.SignInTest">
         <methods>
           <include name="tearDown"/>
           <include name="signInWithUser" invocation-numbers="0"/>
           <include name="initBaseSetup"/>
         </methods>
-      </class> <!-- test.java.dinhtester.testcases.SignInTestWithHandleRole -->
+      </class> <!-- test.java.anhdltester.testcases.SignInTest -->
     </classes>
   </test> <!-- DocumentModule(failed) -->
 </suite> <!-- Failed suite [DMS] -->

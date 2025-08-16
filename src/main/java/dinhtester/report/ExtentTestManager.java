@@ -7,7 +7,7 @@ import com.aventstack.extentreports.Status;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import test.java.dinhtester.base.BaseSetup;
+import test.java.anhdltester.base.BaseSetup;
 
 import java.util.HashMap;
 import java.util.Map;

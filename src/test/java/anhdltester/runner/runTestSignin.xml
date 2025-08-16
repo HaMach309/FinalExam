@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DMS">
+    <parameter name="browserType" value="chrome"/>
+    <parameter name="webUrl" value="https://demo.growcrm.io/login"/>
+    <parameter name="pathData" value="/src/test/Resources/Testdata/account.xlsx"/>
+    <listeners>
+        <listener class-name="main.java.dinhtester.listener.ReportListener"/>
+    </listeners>
+    <test name="DocumentModule">
+        <classes>
+            <class name="test.java.anhdltester.testcases.SignInTest"></class>
+        </classes>
+
+    </test>
+</suite>

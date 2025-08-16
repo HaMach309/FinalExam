@@ -16,3 +16,2025 @@
 [INFO ] 13-06-2025 00:08:02 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/home
 [INFO ] 13-06-2025 00:08:03 [main] Log - End testing DocumentModule
 [INFO ] 13-06-2025 00:08:06 [main] Log - Call tear down
+[INFO ] 16-08-2025 15:07:50 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 15:07:51 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam\src\test\Resources\Testdata\account.xlsx
+[INFO ] 16-08-2025 15:07:51 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 15:07:51 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:07:51 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:07:51 [main] Log - /Users/dolananh/Desktop/AutoTest/FinalExam\src\test\Resources\Testdata\account.xlsx (No such file or directory)
+[INFO ] 16-08-2025 15:07:51 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam\src\test\Resources\Testdata\account.xlsx
+[INFO ] 16-08-2025 15:07:51 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 15:07:51 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:07:51 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:07:51 [main] Log - signInWithUser test is failed.
+[INFO ] 16-08-2025 15:07:51 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (f1938ef7989d50650042c83652b6b9fa)
+[INFO ] 16-08-2025 15:07:51 [main] Log - Screenshot taken: signInWithUser
+[INFO ] 16-08-2025 15:07:51 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/login
+[INFO ] 16-08-2025 15:07:52 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 15:11:17 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 15:11:18 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:11:18 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 15:11:18 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:11:18 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:11:18 [main] Log - /Users/dolananh/Desktop/AutoTest/FinalExam/Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx (No such file or directory)
+[INFO ] 16-08-2025 15:11:18 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:11:18 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 15:11:18 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:11:18 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:11:18 [main] Log - signInWithUser test is failed.
+[INFO ] 16-08-2025 15:11:18 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (0128b5345546679b25c46d5663575406)
+[INFO ] 16-08-2025 15:11:18 [main] Log - Screenshot taken: signInWithUser
+[INFO ] 16-08-2025 15:11:18 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/login
+[INFO ] 16-08-2025 15:11:18 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 15:12:07 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 15:12:07 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExamsrc//test//Resources//Testdata//account.xlsx
+[INFO ] 16-08-2025 15:12:07 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 15:12:07 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:12:07 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:12:07 [main] Log - /Users/dolananh/Desktop/AutoTest/FinalExamsrc/test/Resources/Testdata/account.xlsx (No such file or directory)
+[INFO ] 16-08-2025 15:12:07 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExamsrc//test//Resources//Testdata//account.xlsx
+[INFO ] 16-08-2025 15:12:07 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 15:12:07 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:12:07 [main] Log - File Excel path not found.
+[ERROR] 16-08-2025 15:12:07 [main] Log - signInWithUser test is failed.
+[INFO ] 16-08-2025 15:12:07 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (cd90d9650bdbf152f11dee796b81b1ec)
+[INFO ] 16-08-2025 15:12:07 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 15:15:27 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 15:15:27 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:15:27 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 15:15:28 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:15:28 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 15:15:28 [main] Log - signInWithUser test is starting...
+[INFO ] 16-08-2025 15:15:28 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 15:16:47 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 15:16:47 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 15:16:47 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 15:16:51 [main] Log - Verify current url page
+[INFO ] 16-08-2025 15:16:51 [main] Log - Get current url page
+[INFO ] 16-08-2025 15:18:07 [main] Log - Click element By.xpath: //span[@id='topnav_username']
+[INFO ] 16-08-2025 15:18:07 [main] Log - Click element By.xpath: //a[@href='/logout']
+[INFO ] 16-08-2025 15:19:23 [main] Log - signInWithUser test is passed.
+[INFO ] 16-08-2025 15:19:23 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 15:19:27 [main] Log - Call tear down
+[INFO ] 16-08-2025 15:25:36 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 15:25:36 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:25:36 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 15:25:36 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:25:36 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 15:25:36 [main] Log - login test is starting...
+[INFO ] 16-08-2025 15:25:36 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 15:25:39 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 15:25:39 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 15:25:39 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 15:25:43 [main] Log - Verify current url page
+[INFO ] 16-08-2025 15:25:43 [main] Log - Get current url page
+[INFO ] 16-08-2025 15:27:04 [main] Log - login test is passed.
+[INFO ] 16-08-2025 15:27:04 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 15:28:30 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 15:28:35 [main] Log - Set text AnhDL_Company to By.id: client_company_name
+[INFO ] 16-08-2025 15:28:36 [main] Log - Set text Do to By.id: first_name
+[INFO ] 16-08-2025 15:28:36 [main] Log - Set text Lan_Anh to By.id: last_name
+[INFO ] 16-08-2025 15:28:36 [main] Log - Set text anhdl@test.com to By.id: email
+[INFO ] 16-08-2025 15:28:37 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 15:28:41 [main] Log - createClient test is failed.
+[INFO ] 16-08-2025 15:28:41 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (f001b3561c798a492d83a6b9fe2a290e)
+[INFO ] 16-08-2025 15:28:42 [main] Log - Screenshot taken: createClient
+[INFO ] 16-08-2025 15:28:42 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/clients
+[INFO ] 16-08-2025 15:28:43 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 15:28:46 [main] Log - Call tear down
+[INFO ] 16-08-2025 15:34:45 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 15:34:45 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:34:45 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 15:34:46 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:34:46 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 15:34:46 [main] Log - login test is starting...
+[INFO ] 16-08-2025 15:34:46 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 15:34:48 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 15:34:48 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 15:34:49 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 15:34:52 [main] Log - Verify current url page
+[INFO ] 16-08-2025 15:34:52 [main] Log - Get current url page
+[INFO ] 16-08-2025 15:36:10 [main] Log - login test is passed.
+[INFO ] 16-08-2025 15:36:10 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 15:37:29 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 15:37:35 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 15:37:35 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 15:37:35 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 15:37:36 [main] Log - Set text anhdl@test.com to By.id: email
+[INFO ] 16-08-2025 15:37:36 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 15:37:40 [main] Log - createClient test is failed.
+[INFO ] 16-08-2025 15:37:40 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (f3c175469e25a18cf046e0e1aa7a57bb)
+[INFO ] 16-08-2025 15:37:40 [main] Log - Screenshot taken: createClient
+[INFO ] 16-08-2025 15:37:40 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/clients
+[INFO ] 16-08-2025 15:37:41 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 15:37:44 [main] Log - Call tear down
+[INFO ] 16-08-2025 15:39:51 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 15:39:51 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:39:51 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 15:39:51 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 15:39:51 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 15:39:51 [main] Log - login test is starting...
+[INFO ] 16-08-2025 15:39:51 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 15:39:53 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 15:39:54 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 15:39:54 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 15:39:57 [main] Log - Verify current url page
+[INFO ] 16-08-2025 15:39:57 [main] Log - Get current url page
+[INFO ] 16-08-2025 15:41:14 [main] Log - login test is passed.
+[INFO ] 16-08-2025 15:41:14 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 15:42:31 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 15:42:36 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 15:42:36 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 15:42:36 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 15:42:36 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 15:42:37 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 15:42:40 [main] Log - createClient test is passed.
+[INFO ] 16-08-2025 15:42:40 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 15:42:43 [main] Log - Call tear down
+[INFO ] 16-08-2025 16:12:38 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 16:12:38 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:12:38 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 16:12:38 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:12:38 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 16:12:38 [main] Log - login test is starting...
+[INFO ] 16-08-2025 16:12:38 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 16:12:40 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 16:12:41 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 16:12:41 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 16:12:44 [main] Log - Verify current url page
+[INFO ] 16-08-2025 16:12:44 [main] Log - Get current url page
+[INFO ] 16-08-2025 16:14:02 [main] Log - login test is passed.
+[INFO ] 16-08-2025 16:14:02 [main] Log - createUser test is starting...
+[ERROR] 16-08-2025 16:15:21 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 16:15:21 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (6696d83054e4cb4ebf31a6ab6045c604)
+[INFO ] 16-08-2025 16:15:22 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 16:15:22 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/clients
+[INFO ] 16-08-2025 16:15:22 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 16:15:25 [main] Log - Call tear down
+[INFO ] 16-08-2025 16:25:04 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 16:25:05 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:25:05 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 16:25:05 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:25:05 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 16:25:05 [main] Log - login test is starting...
+[INFO ] 16-08-2025 16:25:05 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 16:25:07 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 16:25:08 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 16:25:08 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 16:25:12 [main] Log - Verify current url page
+[INFO ] 16-08-2025 16:25:12 [main] Log - Get current url page
+[INFO ] 16-08-2025 16:26:29 [main] Log - login test is passed.
+[INFO ] 16-08-2025 16:26:29 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 16:27:46 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[ERROR] 16-08-2025 16:27:56 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 16:27:56 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (6640539cbc21fda18bfdb7727ad0f7de)
+[INFO ] 16-08-2025 16:27:57 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 16:27:57 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 16:27:57 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 16:28:00 [main] Log - Call tear down
+[INFO ] 16-08-2025 16:33:44 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 16:33:44 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:33:44 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 16:33:45 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:33:45 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 16:33:45 [main] Log - login test is starting...
+[INFO ] 16-08-2025 16:33:45 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 16:33:47 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 16:33:47 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 16:33:47 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 16:33:51 [main] Log - Verify current url page
+[INFO ] 16-08-2025 16:33:51 [main] Log - Get current url page
+[INFO ] 16-08-2025 16:35:09 [main] Log - login test is passed.
+[INFO ] 16-08-2025 16:35:09 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 16:36:26 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 16:36:32 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 16:36:32 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 16:36:32 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 16:36:33 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 16:36:34 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 16:36:37 [main] Log - createClient test is passed.
+[INFO ] 16-08-2025 16:36:37 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 16:37:54 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[ERROR] 16-08-2025 16:38:04 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 16:38:04 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (c0c3c1a51815103c16d4f980edd6980c)
+[INFO ] 16-08-2025 16:38:05 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 16:38:05 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 16:38:06 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 16:38:09 [main] Log - Call tear down
+[INFO ] 16-08-2025 16:48:04 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 16:48:04 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:48:04 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 16:48:05 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:48:05 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 16:48:05 [main] Log - login test is starting...
+[INFO ] 16-08-2025 16:48:05 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 16:48:07 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 16:48:07 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 16:48:07 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 16:48:11 [main] Log - Verify current url page
+[INFO ] 16-08-2025 16:48:11 [main] Log - Get current url page
+[INFO ] 16-08-2025 16:49:27 [main] Log - login test is passed.
+[INFO ] 16-08-2025 16:49:27 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 16:50:43 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[ERROR] 16-08-2025 16:50:55 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 16:50:55 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (c7893f1a6c01a84cf4952ec9e6762f66)
+[INFO ] 16-08-2025 16:50:56 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 16:50:56 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 16:50:56 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 16:51:00 [main] Log - Call tear down
+[INFO ] 16-08-2025 16:54:55 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 16:54:55 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:54:55 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 16:54:56 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 16:54:56 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 16:54:56 [main] Log - login test is starting...
+[INFO ] 16-08-2025 16:54:56 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 16:54:58 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 16:54:58 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 16:54:59 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 16:55:02 [main] Log - Verify current url page
+[INFO ] 16-08-2025 16:55:02 [main] Log - Get current url page
+[INFO ] 16-08-2025 16:56:19 [main] Log - login test is passed.
+[INFO ] 16-08-2025 16:56:19 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 16:57:51 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 16:57:56 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[ERROR] 16-08-2025 16:57:56 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 16:57:56 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (4cdf7a1c8f9c38ee520c3306384b6f85)
+[INFO ] 16-08-2025 16:57:57 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 16:57:57 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 16:57:57 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 16:58:01 [main] Log - Call tear down
+[INFO ] 16-08-2025 17:06:01 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 17:06:01 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:06:01 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 17:06:02 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:06:02 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 17:06:02 [main] Log - login test is starting...
+[INFO ] 16-08-2025 17:06:02 [main] Log - Start testcase with admin account
+[INFO ] 16-08-2025 17:06:04 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 17:06:04 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 17:06:05 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 17:06:08 [main] Log - Verify current url page
+[INFO ] 16-08-2025 17:06:08 [main] Log - Get current url page
+[INFO ] 16-08-2025 17:13:54 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 17:13:54 [main] Log - loginFast test is starting...
+[ERROR] 16-08-2025 17:13:54 [main] Log - loginFast test is failed.
+[INFO ] 16-08-2025 17:13:54 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (0d62a003679811176c721e1010ad669d)
+[INFO ] 16-08-2025 17:13:55 [main] Log - Screenshot taken: loginFast
+[INFO ] 16-08-2025 17:13:55 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/login
+[INFO ] 16-08-2025 17:13:55 [main] Log - createUser test is starting...
+[ERROR] 16-08-2025 17:13:55 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 17:13:55 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (0d62a003679811176c721e1010ad669d)
+[INFO ] 16-08-2025 17:13:55 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 17:13:55 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/login
+[INFO ] 16-08-2025 17:13:55 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 17:13:59 [main] Log - Call tear down
+[INFO ] 16-08-2025 17:19:34 [main] Log - Start testing DocumentModule
+[ERROR] 16-08-2025 17:19:34 [main] Log - login test is failed.
+[INFO ] 16-08-2025 17:19:34 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (0cc8b8c42b65e913c5c805408d83d2b7)
+[INFO ] 16-08-2025 17:19:34 [main] Log - Screenshot taken: login
+[INFO ] 16-08-2025 17:19:34 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/login
+[INFO ] 16-08-2025 17:19:35 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 17:22:03 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 17:22:03 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:22:03 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 17:22:04 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:22:04 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 17:22:04 [main] Log - login test is starting...
+[INFO ] 16-08-2025 17:22:04 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 17:22:05 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 17:22:05 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 17:22:05 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 17:22:09 [main] Log - Verify current url page
+[INFO ] 16-08-2025 17:22:09 [main] Log - Get current url page
+[INFO ] 16-08-2025 17:23:24 [main] Log - login test is passed.
+[INFO ] 16-08-2025 17:23:24 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 17:24:41 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 17:24:46 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 17:24:46 [main] Log - Set text AnhDLUser to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[ERROR] 16-08-2025 17:24:52 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 17:24:52 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (d48ea360b702714ccabc72c633ea4bed)
+[INFO ] 16-08-2025 17:24:52 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 17:24:52 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 17:24:53 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 17:24:56 [main] Log - Call tear down
+[INFO ] 16-08-2025 17:26:55 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 17:26:55 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:26:55 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 17:26:56 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:26:56 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 17:26:56 [main] Log - login test is starting...
+[INFO ] 16-08-2025 17:26:56 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 17:26:57 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 17:26:57 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 17:26:57 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 17:27:00 [main] Log - Verify current url page
+[INFO ] 16-08-2025 17:27:00 [main] Log - Get current url page
+[INFO ] 16-08-2025 17:28:16 [main] Log - login test is passed.
+[INFO ] 16-08-2025 17:28:16 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 17:29:33 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 17:29:38 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 17:29:38 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[ERROR] 16-08-2025 17:29:43 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 17:29:43 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (6af5fac2371a88cfe62376124b02aba7)
+[INFO ] 16-08-2025 17:29:44 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 17:29:44 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 17:29:44 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 17:29:47 [main] Log - Call tear down
+[INFO ] 16-08-2025 17:32:21 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 17:32:21 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:32:21 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 17:32:21 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:32:21 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 17:32:22 [main] Log - login test is starting...
+[INFO ] 16-08-2025 17:32:22 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 17:32:23 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 17:32:23 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 17:32:23 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 17:32:26 [main] Log - Verify current url page
+[INFO ] 16-08-2025 17:32:26 [main] Log - Get current url page
+[INFO ] 16-08-2025 17:33:42 [main] Log - login test is passed.
+[INFO ] 16-08-2025 17:33:42 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 17:34:59 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 17:35:04 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 17:35:04 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 17:35:04 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 17:35:04 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 17:35:05 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 17:35:08 [main] Log - createClient test is passed.
+[INFO ] 16-08-2025 17:35:08 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 17:36:24 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 17:36:29 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 17:36:29 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[ERROR] 16-08-2025 17:36:35 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 17:36:35 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (7f072dabc04d407cf98cb0ecd6c99f8e)
+[INFO ] 16-08-2025 17:36:35 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 17:36:35 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 17:36:36 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 17:36:39 [main] Log - Call tear down
+[INFO ] 16-08-2025 17:45:25 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 17:45:26 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:45:26 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 17:45:26 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:45:26 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 17:45:26 [main] Log - login test is starting...
+[INFO ] 16-08-2025 17:45:26 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 17:45:27 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 17:45:28 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 17:45:28 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 17:45:31 [main] Log - Verify current url page
+[INFO ] 16-08-2025 17:45:31 [main] Log - Get current url page
+[INFO ] 16-08-2025 17:46:46 [main] Log - login test is passed.
+[INFO ] 16-08-2025 17:46:46 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 17:48:03 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 17:48:08 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 17:48:08 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 17:48:08 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 17:48:08 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 17:48:08 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 17:48:08 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 17:48:12 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 17:48:12 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (353a62b1bab65f832e38d819c6c1efad)
+[INFO ] 16-08-2025 17:48:12 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 17:48:12 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 17:48:12 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 17:48:16 [main] Log - Call tear down
+[INFO ] 16-08-2025 17:54:04 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 17:54:04 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:54:04 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 17:54:05 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 17:54:05 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 17:54:05 [main] Log - login test is starting...
+[INFO ] 16-08-2025 17:54:05 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 17:54:06 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 17:54:06 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 17:54:06 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 17:54:09 [main] Log - Verify current url page
+[INFO ] 16-08-2025 17:54:09 [main] Log - Get current url page
+[INFO ] 16-08-2025 17:55:24 [main] Log - login test is passed.
+[INFO ] 16-08-2025 17:55:24 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 17:56:41 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 17:56:46 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 17:56:46 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 17:56:46 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 17:56:46 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 17:56:46 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 17:56:46 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 17:56:50 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 17:56:50 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (780652707ddff9681ec73e7020e27e91)
+[INFO ] 16-08-2025 17:56:50 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 17:56:50 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 17:56:51 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 17:56:54 [main] Log - Call tear down
+[INFO ] 16-08-2025 18:02:31 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 18:02:31 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:02:31 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 18:02:31 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:02:31 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 18:02:31 [main] Log - login test is starting...
+[INFO ] 16-08-2025 18:02:31 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 18:02:32 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 18:02:33 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 18:02:33 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 18:02:36 [main] Log - Verify current url page
+[INFO ] 16-08-2025 18:02:36 [main] Log - Get current url page
+[INFO ] 16-08-2025 18:03:53 [main] Log - login test is passed.
+[INFO ] 16-08-2025 18:03:53 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 18:05:12 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 18:05:17 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 18:05:17 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 18:05:17 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 18:05:17 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 18:05:18 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 18:05:21 [main] Log - createClient test is passed.
+[INFO ] 16-08-2025 18:05:21 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 18:06:38 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 18:06:43 [main] Log - Set text AnhDL to By.id: first_name
+[ERROR] 16-08-2025 18:06:49 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 18:06:49 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (25279536d4f26a6d8310cbf606393f8c)
+[INFO ] 16-08-2025 18:06:49 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 18:06:49 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 18:06:49 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 18:15:52 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 18:15:52 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:15:52 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 18:15:53 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:15:53 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 18:15:53 [main] Log - login test is starting...
+[INFO ] 16-08-2025 18:15:53 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 18:15:54 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 18:15:54 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 18:15:54 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 18:15:58 [main] Log - Verify current url page
+[INFO ] 16-08-2025 18:15:58 [main] Log - Get current url page
+[INFO ] 16-08-2025 18:17:13 [main] Log - login test is passed.
+[INFO ] 16-08-2025 18:17:13 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 18:18:31 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 18:18:36 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 18:18:36 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 18:18:36 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 18:18:37 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 18:18:37 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 18:18:40 [main] Log - createClient test is passed.
+[INFO ] 16-08-2025 18:18:40 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 18:19:57 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 18:20:02 [main] Log - Set text AnhDL to By.id: first_name
+[ERROR] 16-08-2025 18:20:07 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 18:20:07 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (43f21796027b816da3de2098d3a20bd2)
+[INFO ] 16-08-2025 18:20:08 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 18:20:08 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 18:20:08 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 18:20:12 [main] Log - Call tear down
+[INFO ] 16-08-2025 18:22:43 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 18:22:43 [main] Log - Set Excel File: /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:22:43 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 18:22:43 [main] Log - Set Excel file /Users/dolananh/Desktop/AutoTest/FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:22:43 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 18:22:44 [main] Log - login test is starting...
+[INFO ] 16-08-2025 18:22:44 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 18:22:45 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 18:22:45 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 18:22:45 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 18:22:48 [main] Log - Verify current url page
+[INFO ] 16-08-2025 18:22:48 [main] Log - Get current url page
+[INFO ] 16-08-2025 18:24:04 [main] Log - login test is passed.
+[INFO ] 16-08-2025 18:24:04 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 18:25:21 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 18:25:26 [main] Log - Set text AnhDL to By.id: first_name
+[ERROR] 16-08-2025 18:25:32 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 18:25:32 [main] Log - Driver for Screenshot: ChromeDriver: chrome on mac (b11e942b91142f0c81fc75dbc8311393)
+[INFO ] 16-08-2025 18:25:32 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 18:25:32 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 18:25:33 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 18:25:36 [main] Log - Call tear down
+[INFO ] 16-08-2025 18:36:00 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 18:36:01 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:36:01 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 18:36:01 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:36:01 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 18:36:01 [main] Log - login test is starting...
+[INFO ] 16-08-2025 18:36:01 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 18:36:02 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 18:36:02 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 18:36:02 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 18:36:05 [main] Log - Verify current url page
+[INFO ] 16-08-2025 18:36:05 [main] Log - Get current url page
+[INFO ] 16-08-2025 18:36:26 [main] Log - login test is passed.
+[INFO ] 16-08-2025 18:36:26 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 18:37:14 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 18:37:14 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:37:14 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 18:37:14 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:37:14 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 18:37:14 [main] Log - login test is starting...
+[INFO ] 16-08-2025 18:37:14 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 18:37:15 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 18:37:15 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 18:37:16 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 18:37:19 [main] Log - Verify current url page
+[INFO ] 16-08-2025 18:37:19 [main] Log - Get current url page
+[INFO ] 16-08-2025 18:37:39 [main] Log - login test is passed.
+[INFO ] 16-08-2025 18:37:39 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 18:38:15 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 18:38:20 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 18:38:20 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 18:38:20 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 18:38:21 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 18:38:21 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 18:38:24 [main] Log - createClient test is passed.
+[INFO ] 16-08-2025 18:38:24 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 18:38:45 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 18:38:51 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 18:38:51 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 18:40:42 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 18:40:42 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:40:42 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 18:40:42 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:40:42 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 18:40:42 [main] Log - login test is starting...
+[INFO ] 16-08-2025 18:40:42 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 18:40:43 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 18:40:43 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 18:40:44 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 18:40:47 [main] Log - Verify current url page
+[INFO ] 16-08-2025 18:40:47 [main] Log - Get current url page
+[INFO ] 16-08-2025 18:41:07 [main] Log - login test is passed.
+[INFO ] 16-08-2025 18:41:07 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 18:41:29 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 18:41:34 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 18:41:34 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[ERROR] 16-08-2025 18:42:34 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 18:42:34 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (89434766407e76c8d4e6525b9ad8a2bb)
+[INFO ] 16-08-2025 18:42:34 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 18:42:34 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 18:42:35 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 18:42:38 [main] Log - Call tear down
+[INFO ] 16-08-2025 18:48:35 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 18:48:35 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:48:35 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 18:48:35 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:48:35 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 18:48:35 [main] Log - login test is starting...
+[INFO ] 16-08-2025 18:48:35 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 18:48:36 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 18:48:37 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 18:48:37 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 18:48:40 [main] Log - Verify current url page
+[INFO ] 16-08-2025 18:48:40 [main] Log - Get current url page
+[INFO ] 16-08-2025 18:49:01 [main] Log - login test is passed.
+[INFO ] 16-08-2025 18:49:01 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 18:49:23 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 18:49:28 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 18:49:28 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[ERROR] 16-08-2025 18:49:28 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 18:49:28 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (14788a9da491da0debcf0c27e4aca2ed)
+[INFO ] 16-08-2025 18:49:30 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 18:49:30 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 18:49:30 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 18:49:33 [main] Log - Call tear down
+[INFO ] 16-08-2025 18:56:05 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 18:56:06 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:56:06 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 18:56:06 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 18:56:06 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 18:56:06 [main] Log - login test is starting...
+[INFO ] 16-08-2025 18:56:06 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 18:56:07 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 18:56:07 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 18:56:07 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 18:56:11 [main] Log - Verify current url page
+[INFO ] 16-08-2025 18:56:11 [main] Log - Get current url page
+[INFO ] 16-08-2025 18:56:31 [main] Log - login test is passed.
+[INFO ] 16-08-2025 18:56:31 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 18:56:53 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 18:56:54 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 18:56:54 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 18:57:14 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 18:57:14 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 18:57:14 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 18:57:14 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 18:57:14 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 18:57:14 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (b36393ddec990d6df1f3c4d28224f892)
+[INFO ] 16-08-2025 18:57:15 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 18:57:15 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 18:57:15 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 18:57:18 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:00:30 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:00:31 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:00:31 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 19:00:31 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:00:31 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 19:00:31 [main] Log - login test is starting...
+[INFO ] 16-08-2025 19:00:31 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 19:00:32 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 19:00:32 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 19:00:32 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 19:00:35 [main] Log - Verify current url page
+[INFO ] 16-08-2025 19:00:35 [main] Log - Get current url page
+[INFO ] 16-08-2025 19:00:56 [main] Log - login test is passed.
+[INFO ] 16-08-2025 19:00:56 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 19:01:17 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 19:01:20 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 19:01:20 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 19:01:20 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 19:01:21 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 19:01:21 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 19:01:21 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 19:01:24 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 19:01:24 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (16f8a93308fe8282dc0284d658770e22)
+[INFO ] 16-08-2025 19:01:24 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 19:01:24 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 19:01:24 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:01:28 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:02:42 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:02:42 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:02:42 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 19:02:42 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:02:42 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 19:02:42 [main] Log - login test is starting...
+[INFO ] 16-08-2025 19:02:42 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 19:02:43 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 19:02:43 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 19:02:43 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 19:02:46 [main] Log - Verify current url page
+[INFO ] 16-08-2025 19:02:46 [main] Log - Get current url page
+[INFO ] 16-08-2025 19:03:07 [main] Log - login test is passed.
+[INFO ] 16-08-2025 19:03:07 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 19:03:30 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 19:03:33 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 19:03:36 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 19:03:36 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 19:03:36 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 19:03:36 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 19:03:36 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 19:03:39 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 19:03:40 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (80c374e758fd8918a8fb6e37b71be9d3)
+[INFO ] 16-08-2025 19:03:40 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 19:03:40 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 19:03:40 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:03:43 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:04:42 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:04:43 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:04:43 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 19:04:43 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:04:43 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 19:04:43 [main] Log - login test is starting...
+[INFO ] 16-08-2025 19:04:43 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 19:04:44 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 19:04:44 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 19:04:44 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 19:04:46 [main] Log - Verify current url page
+[INFO ] 16-08-2025 19:04:46 [main] Log - Get current url page
+[INFO ] 16-08-2025 19:05:08 [main] Log - login test is passed.
+[INFO ] 16-08-2025 19:05:08 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 19:05:30 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 19:05:33 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 19:05:36 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 19:05:39 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 19:05:39 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 19:05:40 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 19:05:40 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 19:05:43 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 19:05:43 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (9d8683009a0d4f93d02535db1ca7cee0)
+[INFO ] 16-08-2025 19:06:32 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:06:32 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:06:32 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 19:06:32 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:06:32 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 19:06:32 [main] Log - login test is starting...
+[INFO ] 16-08-2025 19:06:32 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 19:06:33 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 19:06:33 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 19:06:33 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 19:06:36 [main] Log - Verify current url page
+[INFO ] 16-08-2025 19:06:36 [main] Log - Get current url page
+[INFO ] 16-08-2025 19:06:57 [main] Log - login test is passed.
+[INFO ] 16-08-2025 19:06:57 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 19:07:19 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 19:07:24 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 19:07:24 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 19:07:24 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 19:07:24 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 19:07:24 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 19:07:27 [main] Log - createClient test is passed.
+[INFO ] 16-08-2025 19:07:27 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 19:07:49 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 19:07:52 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 19:07:56 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 19:07:56 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 19:07:56 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 19:07:56 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 19:07:56 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 19:07:59 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 19:07:59 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (15be1a4f734e505ec1775a61c0bdcf53)
+[INFO ] 16-08-2025 19:07:59 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 19:07:59 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 19:08:00 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:08:03 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:09:28 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:09:28 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:09:28 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 19:09:28 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 19:09:28 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 19:09:28 [main] Log - login test is starting...
+[INFO ] 16-08-2025 19:09:28 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 19:09:29 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 19:09:29 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 19:09:29 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 19:09:32 [main] Log - Verify current url page
+[INFO ] 16-08-2025 19:09:32 [main] Log - Get current url page
+[INFO ] 16-08-2025 19:09:53 [main] Log - login test is passed.
+[INFO ] 16-08-2025 19:09:53 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 19:10:15 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 19:10:18 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 19:10:21 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 19:10:24 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 19:10:24 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 19:10:24 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 19:10:24 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 19:10:27 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 19:10:27 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (c81081942d002673ba6f77fd38cedcdd)
+[INFO ] 16-08-2025 19:10:28 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 19:10:28 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 19:10:28 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:10:31 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:14:15 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:14:15 [main] Log - createUser test is starting...
+[ERROR] 16-08-2025 19:14:15 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 19:14:15 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (be5cbef1fce46287cefdbb62d8984db8)
+[INFO ] 16-08-2025 19:14:15 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 19:14:15 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/login
+[INFO ] 16-08-2025 19:14:15 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:14:18 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:15:29 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:15:30 [main] Log - createUser test is starting...
+[ERROR] 16-08-2025 19:15:30 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 19:15:30 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (321344fb16e442549496e5a0b9b51808)
+[INFO ] 16-08-2025 19:15:30 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 19:15:30 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/login
+[INFO ] 16-08-2025 19:15:30 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:15:33 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:16:35 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:16:35 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 19:17:47 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 19:17:50 [main] Log - Click element By.xpath: //span[@class='select2-selection__arrow']
+[INFO ] 16-08-2025 19:17:54 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span[3]/span/span[1]/input
+[INFO ] 16-08-2025 19:17:57 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 19:17:57 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 19:17:57 [main] Log - Set text anhdltest1@test.com to By.id: email
+[INFO ] 16-08-2025 19:17:57 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 19:18:00 [main] Log - createUser test is passed.
+[INFO ] 16-08-2025 19:18:00 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:18:03 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:28:48 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:28:48 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:30:02 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[ERROR] 16-08-2025 19:30:12 [main] Log - createProject test is failed.
+[INFO ] 16-08-2025 19:30:12 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (632648d617d4d4eb5a4949b030fbc005)
+[INFO ] 16-08-2025 19:30:12 [main] Log - Screenshot taken: createProject
+[INFO ] 16-08-2025 19:30:12 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 16-08-2025 19:30:12 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:30:16 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:34:29 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:34:29 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:35:41 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 16-08-2025 19:35:49 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 16-08-2025 19:35:52 [main] Log - Set text AnhDLClient to By.id: select2-project_clientid-container
+[ERROR] 16-08-2025 19:35:57 [main] Log - createProject test is failed.
+[INFO ] 16-08-2025 19:35:57 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (98726c9acbd8121bf09d52c506526270)
+[INFO ] 16-08-2025 19:35:57 [main] Log - Screenshot taken: createProject
+[INFO ] 16-08-2025 19:35:57 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 16-08-2025 19:35:57 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:36:01 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:39:39 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:39:39 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:40:51 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 16-08-2025 19:40:57 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 16-08-2025 19:41:00 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 16-08-2025 19:41:03 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 16-08-2025 19:41:04 [main] Log - Set text now to By.id: project_date_start
+[ERROR] 16-08-2025 19:41:09 [main] Log - createProject test is failed.
+[INFO ] 16-08-2025 19:41:09 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (31f76cccd15e57bc0c25cde9813e23cc)
+[INFO ] 16-08-2025 19:41:09 [main] Log - Screenshot taken: createProject
+[INFO ] 16-08-2025 19:41:09 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 16-08-2025 19:41:09 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:41:12 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:42:01 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:42:01 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:43:13 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 16-08-2025 19:43:18 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 16-08-2025 19:43:22 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 16-08-2025 19:43:27 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 16-08-2025 19:43:27 [main] Log - Set text now to By.id: project_date_start
+[ERROR] 16-08-2025 19:43:32 [main] Log - createProject test is failed.
+[INFO ] 16-08-2025 19:43:32 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (dac8f0c9aa90495474d93c81358bbf61)
+[INFO ] 16-08-2025 19:43:32 [main] Log - Screenshot taken: createProject
+[INFO ] 16-08-2025 19:43:32 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 16-08-2025 19:43:32 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:43:36 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:45:50 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:45:50 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:47:03 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[ERROR] 16-08-2025 19:47:13 [main] Log - createProject test is failed.
+[INFO ] 16-08-2025 19:47:13 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (554bad9bf266d07b4849959bd02e2a85)
+[INFO ] 16-08-2025 19:47:14 [main] Log - Screenshot taken: createProject
+[INFO ] 16-08-2025 19:47:14 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 16-08-2025 19:47:14 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:47:17 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:48:17 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:48:17 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:49:30 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 16-08-2025 19:49:35 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 16-08-2025 19:49:38 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 16-08-2025 19:49:44 [main] Log - Set text AnhdlProject to By.id: project_title
+[ERROR] 16-08-2025 19:49:49 [main] Log - createProject test is failed.
+[INFO ] 16-08-2025 19:49:49 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (38101baa1edab99f6189f671a4db373c)
+[INFO ] 16-08-2025 19:49:49 [main] Log - Screenshot taken: createProject
+[INFO ] 16-08-2025 19:49:49 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 16-08-2025 19:49:49 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:49:53 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:51:08 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:51:08 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:52:21 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 16-08-2025 19:52:26 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 16-08-2025 19:52:29 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 16-08-2025 19:52:34 [main] Log - Set text AnhdlProject to By.id: project_title
+[ERROR] 16-08-2025 19:52:39 [main] Log - createProject test is failed.
+[INFO ] 16-08-2025 19:52:39 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (d274a8263120149d68d4b918fcba1ab2)
+[INFO ] 16-08-2025 19:52:40 [main] Log - Screenshot taken: createProject
+[INFO ] 16-08-2025 19:52:40 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 16-08-2025 19:52:40 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:52:43 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:54:06 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:54:06 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:55:17 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 16-08-2025 19:55:22 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 16-08-2025 19:55:25 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 16-08-2025 19:55:30 [main] Log - Set text AnhdlProject to By.id: project_title
+[ERROR] 16-08-2025 19:55:36 [main] Log - createProject test is failed.
+[INFO ] 16-08-2025 19:55:36 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (039bcb85c33500ef58433fc3e43f163e)
+[INFO ] 16-08-2025 19:55:36 [main] Log - Screenshot taken: createProject
+[INFO ] 16-08-2025 19:55:36 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 16-08-2025 19:55:36 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 19:55:39 [main] Log - Call tear down
+[INFO ] 16-08-2025 19:58:08 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 19:58:08 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 19:59:22 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 16-08-2025 19:59:27 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 16-08-2025 19:59:30 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 16-08-2025 19:59:35 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 16-08-2025 19:59:35 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 16-08-2025 19:59:35 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 16-08-2025 19:59:40 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 20:13:19 [main] Log - Start testing DocumentModule
+[INFO ] 16-08-2025 20:13:19 [main] Log - Set Excel File: D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 20:13:19 [main] Log - Sheet Name: user
+[INFO ] 16-08-2025 20:13:20 [main] Log - Set Excel file D:\anhdl-projects\FinalExam/src/test/Resources/Testdata/account.xlsx
+[INFO ] 16-08-2025 20:13:20 [main] Log - Selected Sheet: user
+[INFO ] 16-08-2025 20:13:20 [main] Log - login test is starting...
+[INFO ] 16-08-2025 20:13:20 [main] Log - Start testcase with user account
+[INFO ] 16-08-2025 20:13:21 [main] Log - Set text admin@example.com to By.id: email
+[INFO ] 16-08-2025 20:13:21 [main] Log - Set text growcrm to By.id: password
+[INFO ] 16-08-2025 20:13:21 [main] Log - Click element By.id: loginSubmitButton
+[INFO ] 16-08-2025 20:13:23 [main] Log - Verify current url page
+[INFO ] 16-08-2025 20:13:23 [main] Log - Get current url page
+[INFO ] 16-08-2025 20:13:45 [main] Log - login test is passed.
+[INFO ] 16-08-2025 20:13:45 [main] Log - createClient test is starting...
+[INFO ] 16-08-2025 20:14:06 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 16-08-2025 20:14:12 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 16-08-2025 20:14:12 [main] Log - Set text Name to By.id: first_name
+[INFO ] 16-08-2025 20:14:12 [main] Log - Set text Name to By.id: last_name
+[INFO ] 16-08-2025 20:14:12 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 16-08-2025 20:14:12 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 20:14:15 [main] Log - createClient test is passed.
+[INFO ] 16-08-2025 20:14:15 [main] Log - createUser test is starting...
+[INFO ] 16-08-2025 20:14:52 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 16-08-2025 20:14:55 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[1]
+[INFO ] 16-08-2025 20:14:58 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[5]
+[INFO ] 16-08-2025 20:15:01 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 16-08-2025 20:15:01 [main] Log - Set text User to By.id: last_name
+[INFO ] 16-08-2025 20:15:01 [main] Log - Set text anhdltest1@test.com to By.id: email
+[INFO ] 16-08-2025 20:15:01 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 16-08-2025 20:15:05 [main] Log - createUser test is failed.
+[INFO ] 16-08-2025 20:15:05 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (c88d23bd1ec0b3f415e719232e2167e1)
+[INFO ] 16-08-2025 20:15:05 [main] Log - Screenshot taken: createUser
+[INFO ] 16-08-2025 20:15:05 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/users
+[INFO ] 16-08-2025 20:15:05 [main] Log - createProject test is starting...
+[INFO ] 16-08-2025 20:15:27 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 16-08-2025 20:15:32 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 16-08-2025 20:15:35 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 16-08-2025 20:15:40 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 16-08-2025 20:15:41 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 16-08-2025 20:15:41 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 16-08-2025 20:15:46 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 16-08-2025 20:15:49 [main] Log - Get title page
+[INFO ] 16-08-2025 20:16:09 [main] Log - Verify title page
+[INFO ] 16-08-2025 20:16:09 [main] Log - Get title page
+[INFO ] 16-08-2025 20:16:09 [main] Log - createProject test is passed.
+[INFO ] 16-08-2025 20:16:09 [main] Log - End testing DocumentModule
+[INFO ] 16-08-2025 20:16:13 [main] Log - Call tear down
+[INFO ] 17-08-2025 09:49:31 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 09:49:31 [main] Log - createClient test is starting...
+[INFO ] 17-08-2025 09:50:54 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 17-08-2025 09:50:59 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 17-08-2025 09:51:00 [main] Log - Set text Name to By.id: first_name
+[INFO ] 17-08-2025 09:51:00 [main] Log - Set text Name to By.id: last_name
+[INFO ] 17-08-2025 09:51:00 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 17-08-2025 09:51:00 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 09:51:03 [main] Log - createClient test is passed.
+[INFO ] 17-08-2025 09:51:03 [main] Log - createProject test is starting...
+[INFO ] 17-08-2025 09:51:25 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 17-08-2025 09:51:30 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 17-08-2025 09:51:33 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 17-08-2025 09:51:38 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 17-08-2025 09:51:38 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 09:51:38 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 09:51:44 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 09:51:47 [main] Log - Get title page
+[INFO ] 17-08-2025 09:52:06 [main] Log - Get title page
+[INFO ] 17-08-2025 09:52:06 [main] Log - Verify title page
+[INFO ] 17-08-2025 09:52:06 [main] Log - Get title page
+[INFO ] 17-08-2025 09:52:06 [main] Log - createProject test is passed.
+[INFO ] 17-08-2025 09:52:06 [main] Log - createTask test is starting...
+[ERROR] 17-08-2025 09:52:33 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 09:52:33 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (9c06690bc04a7b314e4a92d6dd655d0a)
+[INFO ] 17-08-2025 09:52:33 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 09:52:33 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 17-08-2025 09:52:33 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 09:52:37 [main] Log - Call tear down
+[INFO ] 17-08-2025 09:55:21 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 09:55:21 [main] Log - createTask test is starting...
+[ERROR] 17-08-2025 09:56:37 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 09:56:37 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (3fbd079b2682b589ea06d773da0962ba)
+[INFO ] 17-08-2025 09:56:37 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 09:56:37 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 17-08-2025 09:56:37 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 09:56:40 [main] Log - Call tear down
+[INFO ] 17-08-2025 09:58:50 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 09:58:50 [main] Log - createTask test is starting...
+[ERROR] 17-08-2025 10:00:25 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 10:00:25 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (c27c5a77a08a0d670b4956e98760d9ce)
+[INFO ] 17-08-2025 10:00:25 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 10:00:25 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects
+[INFO ] 17-08-2025 10:00:25 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 10:00:28 [main] Log - Call tear down
+[INFO ] 17-08-2025 10:01:32 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:01:32 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:02:48 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 17-08-2025 10:02:53 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[9]
+[INFO ] 17-08-2025 10:02:56 [main] Log - Set text AnhdlProject to By.xpath: (//input[@role='textbox'])[12]
+[INFO ] 17-08-2025 10:03:01 [main] Log - Set text AnhdlTask to By.id: task_title
+[INFO ] 17-08-2025 10:03:03 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 10:04:37 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:04:37 [main] Log - createClient test is starting...
+[INFO ] 17-08-2025 10:05:48 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 17-08-2025 10:05:53 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 17-08-2025 10:05:54 [main] Log - Set text Name to By.id: first_name
+[INFO ] 17-08-2025 10:05:54 [main] Log - Set text Name to By.id: last_name
+[INFO ] 17-08-2025 10:05:54 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 17-08-2025 10:05:54 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 10:05:54 [main] Log - createClient test is passed.
+[INFO ] 17-08-2025 10:05:54 [main] Log - createUser test is starting...
+[INFO ] 17-08-2025 10:06:16 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 17-08-2025 10:06:19 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[1]
+[INFO ] 17-08-2025 10:06:22 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[5]
+[INFO ] 17-08-2025 10:06:25 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 17-08-2025 10:06:25 [main] Log - Set text User to By.id: last_name
+[INFO ] 17-08-2025 10:06:25 [main] Log - Set text anhdltest1@test.com to By.id: email
+[INFO ] 17-08-2025 10:06:25 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 10:06:26 [main] Log - createUser test is passed.
+[INFO ] 17-08-2025 10:06:26 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:07:55 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:07:55 [main] Log - createProject test is starting...
+[INFO ] 17-08-2025 10:09:25 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 17-08-2025 10:09:30 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 17-08-2025 10:09:33 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 17-08-2025 10:09:38 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 17-08-2025 10:09:38 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 10:09:38 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 10:09:44 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 10:09:47 [main] Log - Get title page
+[INFO ] 17-08-2025 10:10:06 [main] Log - Get title page
+[INFO ] 17-08-2025 10:10:07 [main] Log - Verify title page
+[INFO ] 17-08-2025 10:10:07 [main] Log - Get title page
+[INFO ] 17-08-2025 10:10:07 [main] Log - createProject test is passed.
+[INFO ] 17-08-2025 10:10:07 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:10:29 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 17-08-2025 10:10:34 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[9]
+[INFO ] 17-08-2025 10:10:37 [main] Log - Set text AnhdlProject to By.xpath: (//input[@role='textbox'])[12]
+[INFO ] 17-08-2025 10:10:42 [main] Log - Set text AnhdlTask to By.id: task_title
+[INFO ] 17-08-2025 10:10:44 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 10:10:47 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 10:10:48 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 10:10:48 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (80518bf57d347672a77d4c1f279bbffd)
+[INFO ] 17-08-2025 10:10:48 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 10:10:48 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 10:10:48 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 10:10:51 [main] Log - Call tear down
+[INFO ] 17-08-2025 10:14:43 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:14:43 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:15:57 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[ERROR] 17-08-2025 10:16:08 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 10:16:08 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (417e3c23fa01ce35cd0be9f4acb996a2)
+[INFO ] 17-08-2025 10:16:09 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 10:16:09 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 10:16:09 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 10:16:12 [main] Log - Call tear down
+[INFO ] 17-08-2025 10:17:17 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:17:17 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:18:30 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[ERROR] 17-08-2025 10:18:40 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 10:18:40 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (8d7795bd4038e07291b705be25c28876)
+[INFO ] 17-08-2025 10:18:41 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 10:18:41 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 10:18:42 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 10:18:45 [main] Log - Call tear down
+[INFO ] 17-08-2025 10:22:50 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:22:50 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:25:36 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:25:36 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:26:51 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 17-08-2025 10:26:59 [main] Log - Set text AnhdlProject to By.xpath: (//input[@role='textbox'])[12]
+[ERROR] 17-08-2025 10:27:04 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 10:27:04 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (bdb1fcace4e3c4054df5710c180bb439)
+[INFO ] 17-08-2025 10:27:05 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 10:27:05 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 10:27:05 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 10:27:08 [main] Log - Call tear down
+[INFO ] 17-08-2025 10:30:08 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:30:08 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:31:20 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[ERROR] 17-08-2025 10:31:30 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 10:31:30 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (65fb0e5bf1daffef991cce7ec3fda867)
+[INFO ] 17-08-2025 10:31:31 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 10:31:31 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 10:31:32 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 10:31:35 [main] Log - Call tear down
+[INFO ] 17-08-2025 10:41:59 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:41:59 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 10:43:12 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[ERROR] 17-08-2025 10:43:17 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 10:43:17 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (d487684875358e0528c9c57bb545187c)
+[INFO ] 17-08-2025 10:43:17 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 10:43:17 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 10:43:18 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 10:43:21 [main] Log - Call tear down
+[INFO ] 17-08-2025 10:58:53 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 10:58:54 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 11:00:06 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[ERROR] 17-08-2025 11:00:11 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:00:11 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (f5b45b2d3bb182ec6067569f65520906)
+[INFO ] 17-08-2025 11:00:11 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:00:11 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 11:00:12 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:00:15 [main] Log - Call tear down
+[INFO ] 17-08-2025 11:09:52 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:09:52 [main] Log - createTask test is starting...
+[ERROR] 17-08-2025 11:09:52 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:09:52 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (5ff34030155c849877d47cfac9e1b812)
+[ERROR] 17-08-2025 11:09:52 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:09:52 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (5ff34030155c849877d47cfac9e1b812)
+[INFO ] 17-08-2025 11:09:52 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:12:04 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:12:04 [main] Log - createClient test is starting...
+[INFO ] 17-08-2025 11:13:34 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 17-08-2025 11:13:39 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 17-08-2025 11:13:39 [main] Log - Set text Name to By.id: first_name
+[INFO ] 17-08-2025 11:13:39 [main] Log - Set text Name to By.id: last_name
+[INFO ] 17-08-2025 11:13:39 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 17-08-2025 11:13:40 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 11:13:43 [main] Log - createClient test is passed.
+[INFO ] 17-08-2025 11:13:43 [main] Log - createProject test is starting...
+[INFO ] 17-08-2025 11:14:04 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 17-08-2025 11:14:09 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 17-08-2025 11:14:13 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 17-08-2025 11:14:18 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 17-08-2025 11:14:18 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 11:14:18 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 11:14:23 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 11:14:26 [main] Log - Get title page
+[INFO ] 17-08-2025 11:14:46 [main] Log - Get title page
+[INFO ] 17-08-2025 11:14:46 [main] Log - Verify title page
+[INFO ] 17-08-2025 11:14:46 [main] Log - Get title page
+[INFO ] 17-08-2025 11:14:46 [main] Log - createProject test is passed.
+[INFO ] 17-08-2025 11:14:46 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 11:15:08 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 17-08-2025 11:15:13 [main] Log - Click element By.xpath: //div[@id="commonModalBody"]/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 11:15:16 [main] Log - Set text AnhdlProject to By.xpath: //body[@id="main-body"]//span[3]/span/span[1]/input
+[INFO ] 17-08-2025 11:15:21 [main] Log - Set text AnhdlTask to By.id: task_title
+[INFO ] 17-08-2025 11:15:24 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 11:15:27 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 11:15:27 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:15:27 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (0449309ec593fa792633c84f75698c0c)
+[INFO ] 17-08-2025 11:15:27 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:15:27 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 11:15:27 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:15:31 [main] Log - Call tear down
+[INFO ] 17-08-2025 11:33:55 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:33:55 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 11:35:06 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 17-08-2025 11:35:11 [main] Log - Click element By.xpath: //div[@id="commonModalBody"]/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 11:35:15 [main] Log - Set text AnhdlProject to By.xpath: //body[@id="main-body"]//span[3]/span/span[1]/input
+[INFO ] 17-08-2025 11:35:20 [main] Log - Set text AnhdlTask to By.id: task_title
+[INFO ] 17-08-2025 11:35:22 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 11:35:25 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 11:35:25 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:35:25 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (8c5f11e7c3359946ce867bb9b2f0e35a)
+[INFO ] 17-08-2025 11:35:26 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:35:26 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 11:35:27 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:35:30 [main] Log - Call tear down
+[INFO ] 17-08-2025 11:37:40 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:37:40 [main] Log - createTask test is starting...
+[ERROR] 17-08-2025 11:37:40 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:37:40 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (fe68522c1e2f2044acee57a439a90011)
+[ERROR] 17-08-2025 11:37:40 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:37:40 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (fe68522c1e2f2044acee57a439a90011)
+[INFO ] 17-08-2025 11:37:40 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:38:21 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:38:21 [main] Log - createTask test is starting...
+[ERROR] 17-08-2025 11:38:53 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:38:53 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (2434fa0a8e8f8940484cefbbe2d3f37f)
+[INFO ] 17-08-2025 11:39:10 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:39:10 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/home
+[INFO ] 17-08-2025 11:39:10 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:39:13 [main] Log - Call tear down
+[INFO ] 17-08-2025 11:40:17 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:40:17 [main] Log - createTask test is starting...
+[ERROR] 17-08-2025 11:40:50 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:40:50 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (7297418cac22883af95b7744b095f1f9)
+[INFO ] 17-08-2025 11:41:07 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:41:07 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/home
+[INFO ] 17-08-2025 11:41:07 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:41:10 [main] Log - Call tear down
+[INFO ] 17-08-2025 11:41:51 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:41:51 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 11:43:06 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 11:43:09 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:43:09 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (50e829add1c4a689911f22dda96fadc8)
+[INFO ] 17-08-2025 11:43:10 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:43:10 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 11:43:10 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:43:13 [main] Log - Call tear down
+[INFO ] 17-08-2025 11:48:21 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:48:21 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 11:49:36 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 11:49:40 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:49:40 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (bda47effe737817f8551713bbd59a7ac)
+[INFO ] 17-08-2025 11:49:40 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:49:40 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 11:49:40 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:49:43 [main] Log - Call tear down
+[INFO ] 17-08-2025 11:51:37 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:51:37 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 11:53:05 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 11:53:09 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:53:09 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (dcda26c4aedc57c83fd05ea21be07bb5)
+[INFO ] 17-08-2025 11:53:09 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:53:09 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 11:53:09 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:53:12 [main] Log - Call tear down
+[INFO ] 17-08-2025 11:57:41 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 11:57:41 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 11:59:14 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 11:59:17 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 11:59:17 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (4da06a376181fc61c41774999e7acf64)
+[INFO ] 17-08-2025 11:59:18 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 11:59:18 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 11:59:18 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 11:59:21 [main] Log - Call tear down
+[INFO ] 17-08-2025 12:02:47 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:02:47 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 12:04:02 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 12:04:05 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 12:04:05 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (63fa3ebff3044d89f24983d3a9b1c95c)
+[INFO ] 17-08-2025 12:04:05 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 12:04:05 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 12:04:05 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 12:04:09 [main] Log - Call tear down
+[INFO ] 17-08-2025 12:11:48 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:11:48 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 12:13:02 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 12:13:08 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 12:13:08 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (0eae76a0db87feb6f9b9235a33173400)
+[INFO ] 17-08-2025 12:13:08 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 12:13:08 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 12:13:08 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 12:13:11 [main] Log - Call tear down
+[INFO ] 17-08-2025 12:16:08 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:16:08 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 12:17:40 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 17-08-2025 12:17:48 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 12:17:48 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (6ca97c9353f6d57e9973e7a1f49c13b4)
+[INFO ] 17-08-2025 12:17:48 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 12:17:48 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 12:17:48 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 12:17:51 [main] Log - Call tear down
+[INFO ] 17-08-2025 12:25:49 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:25:49 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 12:27:07 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[INFO ] 17-08-2025 12:27:17 [main] Log - Click element By.id: load-more-button
+[ERROR] 17-08-2025 12:27:17 [main] Log - createTask test is failed.
+[INFO ] 17-08-2025 12:27:17 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (c41f4fe20f3c1d2ac8e5388685686e61)
+[INFO ] 17-08-2025 12:27:18 [main] Log - Screenshot taken: createTask
+[INFO ] 17-08-2025 12:27:18 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 17-08-2025 12:27:18 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 12:27:21 [main] Log - Call tear down
+[INFO ] 17-08-2025 12:29:57 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:29:57 [main] Log - createClient test is starting...
+[INFO ] 17-08-2025 12:31:09 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 17-08-2025 12:31:15 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 17-08-2025 12:31:15 [main] Log - Set text Name to By.id: first_name
+[INFO ] 17-08-2025 12:31:15 [main] Log - Set text Name to By.id: last_name
+[INFO ] 17-08-2025 12:31:15 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 17-08-2025 12:31:15 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 12:31:18 [main] Log - createClient test is passed.
+[INFO ] 17-08-2025 12:31:18 [main] Log - createProject test is starting...
+[INFO ] 17-08-2025 12:31:41 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 17-08-2025 12:31:46 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 17-08-2025 12:31:49 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 17-08-2025 12:31:54 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 17-08-2025 12:31:54 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 12:31:54 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 12:31:59 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 12:32:02 [main] Log - Get title page
+[INFO ] 17-08-2025 12:32:22 [main] Log - Get title page
+[INFO ] 17-08-2025 12:32:22 [main] Log - Verify title page
+[INFO ] 17-08-2025 12:32:22 [main] Log - Get title page
+[INFO ] 17-08-2025 12:32:22 [main] Log - createProject test is passed.
+[INFO ] 17-08-2025 12:32:22 [main] Log - createTask test is starting...
+[INFO ] 17-08-2025 12:32:45 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 17-08-2025 12:32:50 [main] Log - Click element By.xpath: //div[@id="commonModalBody"]/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 12:32:53 [main] Log - Set text AnhdlProject to By.xpath: //body[@id="main-body"]//span[3]/span/span[1]/input
+[INFO ] 17-08-2025 12:32:58 [main] Log - Set text AnhdlTask to By.id: task_title
+[INFO ] 17-08-2025 12:33:00 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 12:33:03 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[INFO ] 17-08-2025 12:33:13 [main] Log - Click element By.id: load-more-button
+[INFO ] 17-08-2025 12:33:14 [main] Log - createTask test is passed.
+[INFO ] 17-08-2025 12:33:14 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 12:33:17 [main] Log - Call tear down
+[INFO ] 17-08-2025 12:49:16 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:49:16 [main] Log - createClient test is starting...
+[INFO ] 17-08-2025 12:50:45 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:50:45 [main] Log - createInvoice test is starting...
+[INFO ] 17-08-2025 12:51:56 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[INFO ] 17-08-2025 12:52:02 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 12:52:05 [main] Log - Set text AnhDLClient to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[ERROR] 17-08-2025 12:52:20 [main] Log - createInvoice test is failed.
+[INFO ] 17-08-2025 12:52:20 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (5cfa5067c71fe1567394ba2136d7ca93)
+[INFO ] 17-08-2025 12:52:20 [main] Log - Screenshot taken: createInvoice
+[INFO ] 17-08-2025 12:52:20 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/invoices
+[INFO ] 17-08-2025 12:52:20 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 12:52:24 [main] Log - Call tear down
+[INFO ] 17-08-2025 12:55:14 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:55:14 [main] Log - createInvoice test is starting...
+[INFO ] 17-08-2025 12:56:44 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[INFO ] 17-08-2025 12:56:49 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 12:56:52 [main] Log - Set text AnhDLClient to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 17-08-2025 12:56:57 [main] Log - Click element By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 17-08-2025 12:56:57 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 17-08-2025 12:56:57 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[ERROR] 17-08-2025 12:56:59 [main] Log - createInvoice test is failed.
+[INFO ] 17-08-2025 12:56:59 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (e75bd1ea0b03b79f1a5363e082eb22cf)
+[INFO ] 17-08-2025 12:56:59 [main] Log - Screenshot taken: createInvoice
+[INFO ] 17-08-2025 12:56:59 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/invoices
+[INFO ] 17-08-2025 12:56:59 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 12:57:02 [main] Log - Call tear down
+[INFO ] 17-08-2025 12:58:35 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 12:58:35 [main] Log - createInvoice test is starting...
+[INFO ] 17-08-2025 13:00:00 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[ERROR] 17-08-2025 13:00:01 [main] Log - createInvoice test is failed.
+[INFO ] 17-08-2025 13:00:01 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (20fedb2576e2bf5b054a62f8b676250a)
+[INFO ] 17-08-2025 13:00:02 [main] Log - Screenshot taken: createInvoice
+[INFO ] 17-08-2025 13:00:02 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/invoices
+[INFO ] 17-08-2025 13:00:02 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:00:05 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:02:05 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:02:05 [main] Log - createInvoice test is starting...
+[INFO ] 17-08-2025 13:03:31 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[INFO ] 17-08-2025 13:03:36 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 13:03:39 [main] Log - Set text AnhDLClient to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[ERROR] 17-08-2025 13:03:57 [main] Log - createInvoice test is failed.
+[INFO ] 17-08-2025 13:03:57 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (ea083df0ab99e813900ab4d1fb3ff8b6)
+[INFO ] 17-08-2025 13:03:58 [main] Log - Screenshot taken: createInvoice
+[INFO ] 17-08-2025 13:03:58 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/invoices
+[INFO ] 17-08-2025 13:03:58 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:04:01 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:05:06 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:05:06 [main] Log - createClient test is starting...
+[INFO ] 17-08-2025 13:06:17 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 17-08-2025 13:06:22 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 17-08-2025 13:06:22 [main] Log - Set text Name to By.id: first_name
+[INFO ] 17-08-2025 13:06:22 [main] Log - Set text Name to By.id: last_name
+[INFO ] 17-08-2025 13:06:22 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 17-08-2025 13:06:22 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 13:06:22 [main] Log - createClient test is passed.
+[INFO ] 17-08-2025 13:06:22 [main] Log - createProject test is starting...
+[INFO ] 17-08-2025 13:06:44 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 17-08-2025 13:06:49 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 17-08-2025 13:06:52 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 17-08-2025 13:06:58 [main] Log - Set text AnhdlProject to By.id: project_title
+[INFO ] 17-08-2025 13:06:58 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 13:06:58 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 17-08-2025 13:07:03 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 13:07:03 [main] Log - createProject test is passed.
+[INFO ] 17-08-2025 13:07:03 [main] Log - createInvoice test is starting...
+[ERROR] 17-08-2025 13:07:36 [main] Log - createInvoice test is failed.
+[INFO ] 17-08-2025 13:07:36 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (4a452bc13b74021baa640a94006ab066)
+[INFO ] 17-08-2025 13:07:37 [main] Log - Screenshot taken: createInvoice
+[INFO ] 17-08-2025 13:07:37 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/projects/64
+[INFO ] 17-08-2025 13:07:37 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:07:40 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:10:51 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:10:51 [main] Log - createInvoice test is starting...
+[INFO ] 17-08-2025 13:12:02 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[INFO ] 17-08-2025 13:12:07 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 13:12:10 [main] Log - Set text AnhDLClient to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 17-08-2025 13:12:19 [main] Log - Click element By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 17-08-2025 13:12:19 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 17-08-2025 13:12:19 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 17-08-2025 13:12:19 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 17-08-2025 13:12:21 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 13:12:21 [main] Log - createInvoice test is passed.
+[INFO ] 17-08-2025 13:12:21 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:12:25 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:14:44 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:14:44 [main] Log - createInvoice test is starting...
+[INFO ] 17-08-2025 13:15:53 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[INFO ] 17-08-2025 13:15:56 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 13:15:59 [main] Log - Set text AnhDLClient to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 17-08-2025 13:16:08 [main] Log - Click element By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 17-08-2025 13:16:08 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 17-08-2025 13:16:08 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 17-08-2025 13:16:08 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 17-08-2025 13:16:10 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 13:16:13 [main] Log - Get title page
+[INFO ] 17-08-2025 13:16:35 [main] Log - Get title page
+[INFO ] 17-08-2025 13:16:35 [main] Log - Verify title page
+[INFO ] 17-08-2025 13:16:35 [main] Log - Get title page
+[INFO ] 17-08-2025 13:16:35 [main] Log - createInvoice test is passed.
+[INFO ] 17-08-2025 13:16:35 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:16:38 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:26:04 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:26:04 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 13:27:28 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 13:27:31 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 13:27:34 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 13:27:36 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 13:27:36 [main] Log - createPayment test is passed.
+[INFO ] 17-08-2025 13:27:36 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:27:39 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:40:46 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:40:46 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 13:41:49 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 13:41:49 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (dc700dad22b1f54f70d551ab88dba698)
+[INFO ] 17-08-2025 13:41:49 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 13:41:49 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/home
+[INFO ] 17-08-2025 13:41:49 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:41:53 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:46:31 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:46:31 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 13:47:40 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 13:47:43 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[ERROR] 17-08-2025 13:47:53 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 13:47:53 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (dd9f49d0b0d3acc000b55db7c89bd75a)
+[INFO ] 17-08-2025 13:47:54 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 13:47:54 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 13:47:54 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:47:57 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:49:27 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:49:27 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 13:50:37 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[ERROR] 17-08-2025 13:50:50 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 13:50:50 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (c531835fc15c8ea4ab2792ba6111f0e3)
+[INFO ] 17-08-2025 13:50:51 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 13:50:51 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 13:50:51 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:50:54 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:53:55 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:53:55 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 13:55:04 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 13:55:07 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 13:55:08 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 13:55:11 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 13:55:13 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 17-08-2025 13:55:13 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 13:55:13 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (778130f84fe4037697db03c3959acbe7)
+[INFO ] 17-08-2025 13:55:13 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 13:55:13 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 13:55:13 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 13:55:17 [main] Log - Call tear down
+[INFO ] 17-08-2025 13:58:54 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 13:58:54 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:00:04 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[ERROR] 17-08-2025 14:00:17 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:00:17 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (bbd31e8cd24f8750eba787c5a5db0c94)
+[INFO ] 17-08-2025 14:00:17 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 14:00:17 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 14:00:17 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:00:21 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:01:10 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:01:10 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:02:19 [main] Log - createPayment test is passed.
+[INFO ] 17-08-2025 14:02:19 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:02:22 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:03:05 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:03:05 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 14:03:05 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:03:05 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (c95ed23dfff347dcb58cc817b14be535)
+[ERROR] 17-08-2025 14:03:05 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:03:05 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (c95ed23dfff347dcb58cc817b14be535)
+[INFO ] 17-08-2025 14:03:05 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:06:04 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:06:04 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:07:13 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 14:07:18 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:07:18 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:07:21 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 14:07:23 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 17-08-2025 14:07:23 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:07:23 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (dcd3f8c7f41bfdfdde7db75b9779ea6d)
+[INFO ] 17-08-2025 14:07:24 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 14:07:24 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 14:07:24 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:07:27 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:15:03 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:15:03 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:16:14 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 14:16:19 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:16:19 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:16:22 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 14:16:24 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 17-08-2025 14:16:25 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:16:25 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (aace49ce3ac3d04f97120ed4d65e8cbe)
+[INFO ] 17-08-2025 14:16:25 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 14:16:25 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 14:16:25 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:16:28 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:17:21 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:17:21 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:18:31 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 14:18:36 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:18:36 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:18:39 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 14:18:41 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 17-08-2025 14:18:42 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:18:42 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (38e8a8ae7c9636638706128a7a76f9c1)
+[INFO ] 17-08-2025 14:18:42 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 14:18:42 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 14:18:42 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:18:46 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:20:11 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:20:11 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:21:21 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 14:21:26 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:21:26 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:21:29 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 14:21:31 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 17-08-2025 14:21:32 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:21:32 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (7dfce40b50dd9335e69f3e33681aae7d)
+[INFO ] 17-08-2025 14:21:32 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 14:21:32 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 14:21:32 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:21:35 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:22:34 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:22:35 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:23:46 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 14:23:51 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:23:51 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:23:54 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 14:23:56 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 17-08-2025 14:24:02 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:24:02 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (d8ae4ca30a2cb43cd509281b922b7ea9)
+[INFO ] 17-08-2025 14:24:02 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 14:24:02 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 14:24:02 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:24:05 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:26:55 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:26:55 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:28:07 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 14:28:13 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:28:13 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:28:16 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 14:28:18 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 17-08-2025 14:28:23 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:28:23 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (40a4697e557c6e4489a84fa3ebe74977)
+[ERROR] 17-08-2025 14:28:23 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 14:28:23 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (40a4697e557c6e4489a84fa3ebe74977)
+[INFO ] 17-08-2025 14:28:23 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:29:39 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:29:39 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 14:30:50 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 14:30:55 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:30:55 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 14:30:58 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 14:31:00 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 14:31:05 [main] Log - createPayment test is passed.
+[INFO ] 17-08-2025 14:31:05 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:31:09 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:38:36 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:38:36 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 14:40:24 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:40:24 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 14:41:34 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Estimate']
+[INFO ] 17-08-2025 14:41:39 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 14:41:42 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span/span/span[1]/input
+[INFO ] 17-08-2025 14:41:50 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 17-08-2025 14:41:52 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 14:41:57 [main] Log - createEstimate test is passed.
+[INFO ] 17-08-2025 14:41:57 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:42:01 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:45:14 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:45:14 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 14:46:25 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Estimate']
+[ERROR] 17-08-2025 14:46:41 [main] Log - createEstimate test is failed.
+[INFO ] 17-08-2025 14:46:41 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (973bfee9af3b855034f904e7c56eb47a)
+[INFO ] 17-08-2025 14:46:41 [main] Log - Screenshot taken: createEstimate
+[INFO ] 17-08-2025 14:46:41 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/estimates
+[INFO ] 17-08-2025 14:46:41 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:46:45 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:47:14 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:47:15 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 14:49:03 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Estimate']
+[INFO ] 17-08-2025 14:49:08 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 14:49:11 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span/span/span[1]/input
+[INFO ] 17-08-2025 14:49:19 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 17-08-2025 14:49:22 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 14:49:27 [main] Log - Get title page
+[INFO ] 17-08-2025 14:49:44 [main] Log - Get title page
+[INFO ] 17-08-2025 14:49:44 [main] Log - Verify title page
+[INFO ] 17-08-2025 14:49:44 [main] Log - Get title page
+[INFO ] 17-08-2025 14:49:44 [main] Log - createEstimate test is passed.
+[INFO ] 17-08-2025 14:49:44 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:49:47 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:56:42 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:56:42 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 14:57:51 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 17-08-2025 14:57:56 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 14:57:59 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 17-08-2025 14:58:07 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 17-08-2025 14:58:07 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate error' and @name='doc_date_start']
+[ERROR] 17-08-2025 14:58:17 [main] Log - createEstimate test is failed.
+[INFO ] 17-08-2025 14:58:17 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (864dbc861dcf1c1c0b65fd1ecd3a9f96)
+[INFO ] 17-08-2025 14:58:18 [main] Log - Screenshot taken: createEstimate
+[INFO ] 17-08-2025 14:58:18 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/contracts
+[INFO ] 17-08-2025 14:58:18 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 14:58:21 [main] Log - Call tear down
+[INFO ] 17-08-2025 14:59:13 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 14:59:13 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 15:00:35 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 17-08-2025 15:00:40 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 15:00:43 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 17-08-2025 15:00:51 [main] Log - Set text AnhDLContact to By.id: doc_title
+[ERROR] 17-08-2025 15:01:01 [main] Log - createEstimate test is failed.
+[INFO ] 17-08-2025 15:01:01 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (df3595f87f2b71ab63e939d53cbf1e55)
+[INFO ] 17-08-2025 15:01:01 [main] Log - Screenshot taken: createEstimate
+[INFO ] 17-08-2025 15:01:01 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/contracts
+[INFO ] 17-08-2025 15:01:02 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 15:01:05 [main] Log - Call tear down
+[INFO ] 17-08-2025 15:02:30 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 15:02:30 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 15:03:39 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 17-08-2025 15:03:44 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 15:03:47 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 17-08-2025 15:03:55 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 17-08-2025 15:03:55 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate error' and @name='doc_date_start']
+[ERROR] 17-08-2025 15:04:06 [main] Log - createEstimate test is failed.
+[INFO ] 17-08-2025 15:04:06 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (35b1c361d6d94816ca9da196dc307e66)
+[INFO ] 17-08-2025 15:04:06 [main] Log - Screenshot taken: createEstimate
+[INFO ] 17-08-2025 15:04:06 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/contracts
+[INFO ] 17-08-2025 15:04:06 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 15:04:09 [main] Log - Call tear down
+[INFO ] 17-08-2025 15:05:18 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 15:05:19 [main] Log - createEstimate test is starting...
+[ERROR] 17-08-2025 15:05:19 [main] Log - createEstimate test is failed.
+[INFO ] 17-08-2025 15:05:19 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (5114d75f91aa6de770593a90edb756e0)
+[ERROR] 17-08-2025 15:05:19 [main] Log - createEstimate test is failed.
+[INFO ] 17-08-2025 15:05:19 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (5114d75f91aa6de770593a90edb756e0)
+[INFO ] 17-08-2025 15:05:19 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 15:05:55 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 15:05:56 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 15:07:04 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 17-08-2025 15:07:09 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 15:07:12 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 17-08-2025 15:07:21 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 17-08-2025 15:07:21 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='doc_date_start']
+[INFO ] 17-08-2025 15:07:23 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 15:07:28 [main] Log - createEstimate test is passed.
+[INFO ] 17-08-2025 15:07:28 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 15:07:31 [main] Log - Call tear down
+[INFO ] 17-08-2025 15:10:06 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 15:10:06 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 15:11:18 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 17-08-2025 15:11:23 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 15:11:26 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 17-08-2025 15:11:34 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 17-08-2025 15:11:34 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='doc_date_start']
+[INFO ] 17-08-2025 15:11:36 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 15:13:33 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 15:13:33 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 15:14:42 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 17-08-2025 15:14:47 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 15:14:51 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 17-08-2025 15:14:59 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 17-08-2025 15:14:59 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='doc_date_start']
+[INFO ] 17-08-2025 15:15:01 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 17-08-2025 15:15:47 [main] Log - createEstimate test is failed.
+[INFO ] 17-08-2025 15:15:47 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (b974379d46385363ccaa12aae9f787e0)
+[INFO ] 17-08-2025 15:15:47 [main] Log - Screenshot taken: createEstimate
+[INFO ] 17-08-2025 15:15:47 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/contracts
+[INFO ] 17-08-2025 15:15:48 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 15:15:51 [main] Log - Call tear down
+[INFO ] 17-08-2025 15:17:48 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 15:17:49 [main] Log - createEstimate test is starting...
+[INFO ] 17-08-2025 15:19:17 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 17-08-2025 15:19:22 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 17-08-2025 15:19:25 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 17-08-2025 15:19:33 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 17-08-2025 15:19:33 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='doc_date_start']
+[INFO ] 17-08-2025 15:19:35 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 15:20:19 [main] Log - createEstimate test is passed.
+[INFO ] 17-08-2025 15:20:19 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 15:20:23 [main] Log - Call tear down
+[INFO ] 17-08-2025 21:55:30 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 21:55:30 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 21:56:54 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 21:56:54 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (0fe1d94bb03f48d9c47a63c39750a0b2)
+[INFO ] 17-08-2025 21:56:55 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 21:56:55 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 21:56:55 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 21:56:58 [main] Log - Call tear down
+[INFO ] 17-08-2025 21:59:32 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 21:59:32 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 22:01:01 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 22:01:01 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (01fdc0711be2d863bc0a214f41a6afd2)
+[INFO ] 17-08-2025 22:01:01 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 22:01:01 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/login
+[INFO ] 17-08-2025 22:01:01 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:01:04 [main] Log - Call tear down
+[INFO ] 17-08-2025 22:04:40 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:04:40 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 22:06:08 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 22:06:08 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (c4523259b9826cd8d94d027a9ac76e4e)
+[INFO ] 17-08-2025 22:06:08 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 22:06:08 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 22:06:08 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:06:12 [main] Log - Call tear down
+[INFO ] 17-08-2025 22:08:18 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:08:18 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 22:09:27 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 22:09:27 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (93ac26604cc5c93f08452f59fa9532e1)
+[INFO ] 17-08-2025 22:09:27 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 22:09:27 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 22:09:27 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:09:31 [main] Log - Call tear down
+[INFO ] 17-08-2025 22:13:04 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:13:04 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 22:14:38 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 22:14:38 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (bd29c1cad2c1b895892faf377fe77f0e)
+[INFO ] 17-08-2025 22:14:39 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 22:14:39 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 22:14:39 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:14:42 [main] Log - Call tear down
+[INFO ] 17-08-2025 22:17:08 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:17:09 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 22:18:18 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 22:18:18 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (ad55987d98e8d6c2dfb8867ac0968792)
+[INFO ] 17-08-2025 22:18:18 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 22:18:18 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 22:18:19 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:18:22 [main] Log - Call tear down
+[INFO ] 17-08-2025 22:23:20 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:23:20 [main] Log - createPayment test is starting...
+[ERROR] 17-08-2025 22:24:30 [main] Log - createPayment test is failed.
+[INFO ] 17-08-2025 22:24:30 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (5e08336859aac6aa670eeb5f50aafa1f)
+[INFO ] 17-08-2025 22:24:30 [main] Log - Screenshot taken: createPayment
+[INFO ] 17-08-2025 22:24:30 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/payments
+[INFO ] 17-08-2025 22:24:30 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:24:33 [main] Log - Call tear down
+[INFO ] 17-08-2025 22:27:03 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:27:03 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 22:31:14 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:31:15 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 22:32:00 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:32:00 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 22:33:13 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:33:13 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 22:35:02 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 22:35:07 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 22:35:07 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 22:35:10 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 22:35:13 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 22:35:18 [main] Log - createPayment test is passed.
+[INFO ] 17-08-2025 22:35:18 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:35:21 [main] Log - Call tear down
+[INFO ] 17-08-2025 22:35:53 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:35:53 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 22:37:26 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 17-08-2025 22:37:31 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 17-08-2025 22:37:31 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 17-08-2025 22:37:34 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 17-08-2025 22:37:37 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 17-08-2025 22:37:42 [main] Log - createPayment test is passed.
+[INFO ] 17-08-2025 22:37:42 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:37:45 [main] Log - Call tear down
+[INFO ] 17-08-2025 22:50:01 [main] Log - Start testing DocumentModule
+[INFO ] 17-08-2025 22:50:01 [main] Log - createPayment test is starting...
+[INFO ] 17-08-2025 22:51:52 [main] Log - createPayment test is passed.
+[INFO ] 17-08-2025 22:51:52 [main] Log - End testing DocumentModule
+[INFO ] 17-08-2025 22:51:55 [main] Log - Call tear down
+[INFO ] 18-08-2025 00:02:48 [main] Log - Start testing DocumentModule
+[INFO ] 18-08-2025 00:02:48 [main] Log - createPayment test is starting...
+[INFO ] 18-08-2025 00:04:36 [main] Log - createPayment test is passed.
+[INFO ] 18-08-2025 00:04:36 [main] Log - End testing DocumentModule
+[INFO ] 18-08-2025 00:04:39 [main] Log - Call tear down
+[INFO ] 18-08-2025 00:15:48 [main] Log - Start testing DocumentModule
+[INFO ] 18-08-2025 00:15:48 [main] Log - createPayment test is starting...
+[INFO ] 18-08-2025 00:17:34 [main] Log - createPayment test is passed.
+[INFO ] 18-08-2025 00:17:34 [main] Log - End testing DocumentModule
+[INFO ] 18-08-2025 00:17:37 [main] Log - Call tear down
+[INFO ] 18-08-2025 00:33:05 [main] Log - Start testing DocumentModule
+[INFO ] 18-08-2025 00:33:05 [main] Log - createClient test is starting...
+[INFO ] 18-08-2025 00:34:14 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 18-08-2025 00:34:19 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 18-08-2025 00:34:19 [main] Log - Set text Name to By.id: first_name
+[INFO ] 18-08-2025 00:34:19 [main] Log - Set text Name to By.id: last_name
+[INFO ] 18-08-2025 00:34:20 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 18-08-2025 00:34:20 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 18-08-2025 00:34:23 [main] Log - createClient test is passed.
+[INFO ] 18-08-2025 00:34:23 [main] Log - createUser test is starting...
+[INFO ] 18-08-2025 00:35:06 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 18-08-2025 00:35:09 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[1]
+[INFO ] 18-08-2025 00:35:13 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[5]
+[INFO ] 18-08-2025 00:35:16 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 18-08-2025 00:35:16 [main] Log - Set text User to By.id: last_name
+[INFO ] 18-08-2025 00:35:16 [main] Log - Set text anhdltest1@test.com to By.id: email
+[INFO ] 18-08-2025 00:35:16 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 18-08-2025 00:35:19 [main] Log - createUser test is passed.
+[INFO ] 18-08-2025 00:35:19 [main] Log - createProject test is starting...
+[INFO ] 18-08-2025 00:36:03 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 18-08-2025 00:36:08 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 18-08-2025 00:36:12 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 18-08-2025 00:36:17 [main] Log - Set text AnhDLProject to By.id: project_title
+[INFO ] 18-08-2025 00:36:17 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 18-08-2025 00:36:17 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 18-08-2025 00:36:22 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 18-08-2025 00:36:25 [main] Log - Get title page
+[INFO ] 18-08-2025 00:36:46 [main] Log - Get title page
+[INFO ] 18-08-2025 00:36:46 [main] Log - Verify title page
+[INFO ] 18-08-2025 00:36:46 [main] Log - Get title page
+[INFO ] 18-08-2025 00:36:46 [main] Log - createProject test is passed.
+[INFO ] 18-08-2025 00:36:46 [main] Log - createTask test is starting...
+[INFO ] 18-08-2025 00:37:30 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 18-08-2025 00:37:35 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 18-08-2025 00:37:38 [main] Log - Set text AnhDLProject to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 18-08-2025 00:37:43 [main] Log - Set text AnhDLTask to By.id: task_title
+[INFO ] 18-08-2025 00:37:45 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 18-08-2025 00:37:49 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 18-08-2025 00:38:09 [main] Log - createTask test is failed.
+[INFO ] 18-08-2025 00:38:09 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (37eb705e67daae53f2c28389aa080b32)
+[INFO ] 18-08-2025 00:38:09 [main] Log - Screenshot taken: createTask
+[INFO ] 18-08-2025 00:38:09 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 18-08-2025 00:38:09 [main] Log - createInvoice test is starting...
+[INFO ] 18-08-2025 00:39:16 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[INFO ] 18-08-2025 00:39:19 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 18-08-2025 00:39:22 [main] Log - Set text AnhDLClient to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 18-08-2025 00:39:30 [main] Log - Click element By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 18-08-2025 00:39:30 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 18-08-2025 00:39:31 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 18-08-2025 00:39:31 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 18-08-2025 00:39:33 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 18-08-2025 00:39:36 [main] Log - Get title page
+[INFO ] 18-08-2025 00:40:00 [main] Log - Get title page
+[INFO ] 18-08-2025 00:40:00 [main] Log - Verify title page
+[INFO ] 18-08-2025 00:40:00 [main] Log - Get title page
+[INFO ] 18-08-2025 00:40:00 [main] Log - createInvoice test is passed.
+[INFO ] 18-08-2025 00:40:00 [main] Log - createPayment test is starting...
+[INFO ] 18-08-2025 00:41:28 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 18-08-2025 00:41:33 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 18-08-2025 00:41:33 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 18-08-2025 00:41:36 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 18-08-2025 00:41:38 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 18-08-2025 00:41:43 [main] Log - createPayment test is passed.
+[INFO ] 18-08-2025 00:41:43 [main] Log - createEstimate test is starting...
+[INFO ] 18-08-2025 00:42:49 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Estimate']
+[INFO ] 18-08-2025 00:42:54 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 18-08-2025 00:42:57 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span/span/span[1]/input
+[INFO ] 18-08-2025 00:43:05 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 18-08-2025 00:43:08 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 18-08-2025 00:43:13 [main] Log - Get title page
+[INFO ] 18-08-2025 00:43:30 [main] Log - Get title page
+[INFO ] 18-08-2025 00:43:30 [main] Log - Verify title page
+[INFO ] 18-08-2025 00:43:30 [main] Log - Get title page
+[INFO ] 18-08-2025 00:43:30 [main] Log - createEstimate test is passed.
+[INFO ] 18-08-2025 00:43:30 [main] Log - createContract test is starting...
+[INFO ] 18-08-2025 00:44:36 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 18-08-2025 00:44:41 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 18-08-2025 00:44:44 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 18-08-2025 00:44:52 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 18-08-2025 00:44:52 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='doc_date_start']
+[INFO ] 18-08-2025 00:44:54 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 18-08-2025 00:45:39 [main] Log - createContract test is passed.
+[INFO ] 18-08-2025 00:45:39 [main] Log - End testing DocumentModule
+[INFO ] 18-08-2025 00:45:42 [main] Log - Call tear down
+[INFO ] 20-08-2025 21:31:57 [main] Log - Start testing DocumentModule
+[INFO ] 20-08-2025 21:31:57 [main] Log - createClient test is starting...
+[INFO ] 20-08-2025 21:35:06 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 20-08-2025 21:35:11 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 20-08-2025 21:35:11 [main] Log - Set text Name to By.id: first_name
+[INFO ] 20-08-2025 21:35:12 [main] Log - Set text Name to By.id: last_name
+[INFO ] 20-08-2025 21:35:12 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 20-08-2025 21:35:13 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 21:35:16 [main] Log - createClient test is passed.
+[INFO ] 20-08-2025 21:35:16 [main] Log - createUser test is starting...
+[INFO ] 20-08-2025 21:36:01 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 20-08-2025 21:36:04 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[1]
+[INFO ] 20-08-2025 21:36:07 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[5]
+[INFO ] 20-08-2025 21:36:11 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 20-08-2025 21:36:11 [main] Log - Set text User to By.id: last_name
+[INFO ] 20-08-2025 21:36:11 [main] Log - Set text anhdltest1@test.com to By.id: email
+[INFO ] 20-08-2025 21:36:11 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 21:36:14 [main] Log - createUser test is passed.
+[INFO ] 20-08-2025 21:36:14 [main] Log - createProject test is starting...
+[INFO ] 20-08-2025 21:37:00 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 20-08-2025 21:37:05 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 20-08-2025 21:37:08 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 20-08-2025 21:37:13 [main] Log - Set text AnhDLProject to By.id: project_title
+[INFO ] 20-08-2025 21:37:13 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 20-08-2025 21:37:13 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 20-08-2025 21:37:18 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 21:37:22 [main] Log - Get title page
+[INFO ] 20-08-2025 21:37:42 [main] Log - Get title page
+[INFO ] 20-08-2025 21:37:42 [main] Log - Verify title page
+[INFO ] 20-08-2025 21:37:42 [main] Log - Get title page
+[INFO ] 20-08-2025 21:37:42 [main] Log - createProject test is passed.
+[INFO ] 20-08-2025 21:37:42 [main] Log - createTask test is starting...
+[INFO ] 20-08-2025 21:38:28 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 20-08-2025 21:38:33 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 21:38:36 [main] Log - Set text AnhDLProject to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 20-08-2025 21:38:41 [main] Log - Set text AnhDLTask to By.id: task_title
+[INFO ] 20-08-2025 21:38:43 [main] Log - Click element By.id: commonModalSubmitButton
+[ERROR] 20-08-2025 21:38:46 [main] Log - createTask test is failed.
+[INFO ] 20-08-2025 21:38:46 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (f8ca2b53af52d764783215e6bda3994c)
+[INFO ] 20-08-2025 21:38:47 [main] Log - Screenshot taken: createTask
+[INFO ] 20-08-2025 21:38:47 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 20-08-2025 21:38:47 [main] Log - createInvoice test is starting...
+[INFO ] 20-08-2025 21:39:54 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[INFO ] 20-08-2025 21:39:58 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 21:40:01 [main] Log - Set text AnhDLClient to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 20-08-2025 21:40:09 [main] Log - Click element By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 20-08-2025 21:40:09 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 20-08-2025 21:40:09 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 20-08-2025 21:40:09 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 20-08-2025 21:40:11 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 21:40:15 [main] Log - Get title page
+[INFO ] 20-08-2025 21:40:40 [main] Log - Get title page
+[INFO ] 20-08-2025 21:40:40 [main] Log - Verify title page
+[INFO ] 20-08-2025 21:40:40 [main] Log - Get title page
+[INFO ] 20-08-2025 21:40:40 [main] Log - createInvoice test is passed.
+[INFO ] 20-08-2025 21:40:40 [main] Log - createPayment test is starting...
+[INFO ] 20-08-2025 21:42:10 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 20-08-2025 21:42:15 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 20-08-2025 21:42:15 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 20-08-2025 21:42:18 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 20-08-2025 21:42:20 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 21:42:25 [main] Log - createPayment test is passed.
+[INFO ] 20-08-2025 21:42:25 [main] Log - createEstimate test is starting...
+[INFO ] 20-08-2025 21:43:33 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Estimate']
+[INFO ] 20-08-2025 21:43:38 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 21:43:41 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span/span/span[1]/input
+[INFO ] 20-08-2025 21:43:49 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 20-08-2025 21:43:51 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 21:43:57 [main] Log - Get title page
+[INFO ] 20-08-2025 21:44:15 [main] Log - Get title page
+[INFO ] 20-08-2025 21:44:15 [main] Log - Verify title page
+[INFO ] 20-08-2025 21:44:15 [main] Log - Get title page
+[INFO ] 20-08-2025 21:44:15 [main] Log - createEstimate test is passed.
+[INFO ] 20-08-2025 21:44:15 [main] Log - createContract test is starting...
+[INFO ] 20-08-2025 21:45:24 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 20-08-2025 21:45:29 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 21:45:32 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 20-08-2025 21:45:40 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 20-08-2025 21:45:40 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='doc_date_start']
+[INFO ] 20-08-2025 21:45:42 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 21:46:31 [main] Log - createContract test is passed.
+[INFO ] 20-08-2025 21:46:31 [main] Log - End testing DocumentModule
+[INFO ] 20-08-2025 21:46:34 [main] Log - Call tear down
+[INFO ] 20-08-2025 22:24:45 [main] Log - Start testing DocumentModule
+[INFO ] 20-08-2025 22:24:45 [main] Log - createClient test is starting...
+[INFO ] 20-08-2025 22:26:34 [main] Log - Click element By.xpath: //button[@data-modal-title='Add Client']
+[INFO ] 20-08-2025 22:26:39 [main] Log - Set text AnhDLClient to By.id: client_company_name
+[INFO ] 20-08-2025 22:26:39 [main] Log - Set text Name to By.id: first_name
+[INFO ] 20-08-2025 22:26:40 [main] Log - Set text Name to By.id: last_name
+[INFO ] 20-08-2025 22:26:40 [main] Log - Set text anhdltest@test.com to By.id: email
+[INFO ] 20-08-2025 22:26:40 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:26:43 [main] Log - createClient test is passed.
+[INFO ] 20-08-2025 22:26:43 [main] Log - createUser test is starting...
+[INFO ] 20-08-2025 22:27:29 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New User']
+[INFO ] 20-08-2025 22:27:33 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[1]
+[INFO ] 20-08-2025 22:27:36 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[5]
+[INFO ] 20-08-2025 22:27:39 [main] Log - Set text AnhDL to By.id: first_name
+[INFO ] 20-08-2025 22:27:39 [main] Log - Set text User to By.id: last_name
+[INFO ] 20-08-2025 22:27:39 [main] Log - Set text anhdltest1@test.com to By.id: email
+[INFO ] 20-08-2025 22:27:39 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:27:43 [main] Log - createUser test is passed.
+[INFO ] 20-08-2025 22:27:43 [main] Log - createProject test is starting...
+[INFO ] 20-08-2025 22:28:28 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Project']
+[INFO ] 20-08-2025 22:28:33 [main] Log - Click element By.xpath: (//span[@class='select2-selection__arrow'])[3]
+[INFO ] 20-08-2025 22:28:36 [main] Log - Set text AnhDLClient to By.xpath: (//input[@role='textbox'])[7]
+[INFO ] 20-08-2025 22:28:41 [main] Log - Set text AnhDLProject to By.id: project_title
+[INFO ] 20-08-2025 22:28:42 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 20-08-2025 22:28:42 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='project_date_start']
+[INFO ] 20-08-2025 22:28:47 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:28:50 [main] Log - Get title page
+[INFO ] 20-08-2025 22:29:10 [main] Log - Get title page
+[INFO ] 20-08-2025 22:29:10 [main] Log - Verify title page
+[INFO ] 20-08-2025 22:29:10 [main] Log - Get title page
+[INFO ] 20-08-2025 22:29:10 [main] Log - createProject test is passed.
+[INFO ] 20-08-2025 22:29:10 [main] Log - createTask test is starting...
+[INFO ] 20-08-2025 22:29:56 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 20-08-2025 22:30:01 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 22:30:04 [main] Log - Set text AnhDLProject to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 20-08-2025 22:30:10 [main] Log - Set text AnhDLTask to By.id: task_title
+[INFO ] 20-08-2025 22:30:12 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:30:15 [main] Log - Click element By.id: pref_filter_show_archived_tasks
+[ERROR] 20-08-2025 22:30:25 [main] Log - createTask test is failed.
+[INFO ] 20-08-2025 22:30:25 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (e2c95e9ec6cb67441c82a3cdd4992134)
+[INFO ] 20-08-2025 22:30:25 [main] Log - Screenshot taken: createTask
+[INFO ] 20-08-2025 22:30:25 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 20-08-2025 22:30:26 [main] Log - createInvoice test is starting...
+[INFO ] 20-08-2025 22:31:32 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Invoice']
+[INFO ] 20-08-2025 22:31:35 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 22:31:39 [main] Log - Set text AnhDLClient to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 20-08-2025 22:31:47 [main] Log - Click element By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 20-08-2025 22:31:47 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 20-08-2025 22:31:47 [main] Log - Click element By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 20-08-2025 22:31:47 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='bill_due_date_add_edit']
+[INFO ] 20-08-2025 22:31:49 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:31:52 [main] Log - Get title page
+[INFO ] 20-08-2025 22:32:17 [main] Log - Get title page
+[INFO ] 20-08-2025 22:32:17 [main] Log - Verify title page
+[INFO ] 20-08-2025 22:32:17 [main] Log - Get title page
+[INFO ] 20-08-2025 22:32:17 [main] Log - createInvoice test is passed.
+[INFO ] 20-08-2025 22:32:17 [main] Log - createPayment test is starting...
+[INFO ] 20-08-2025 22:33:46 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Payment']
+[INFO ] 20-08-2025 22:33:51 [main] Log - Click element By.id: payment_invoiceid
+[INFO ] 20-08-2025 22:33:51 [main] Log - Set text 000136 to By.id: payment_invoiceid
+[INFO ] 20-08-2025 22:33:55 [main] Log - Set text 500 to By.id: payment_amount
+[INFO ] 20-08-2025 22:33:57 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:34:02 [main] Log - createPayment test is passed.
+[INFO ] 20-08-2025 22:34:02 [main] Log - createEstimate test is starting...
+[INFO ] 20-08-2025 22:35:10 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Estimate']
+[INFO ] 20-08-2025 22:35:15 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 22:35:18 [main] Log - Set text AnhDLClient to By.xpath: //*[@id="main-body"]/span/span/span[1]/input
+[INFO ] 20-08-2025 22:35:26 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control  form-control-sm pickadate' and @name='bill_date_add_edit']
+[INFO ] 20-08-2025 22:35:28 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:35:33 [main] Log - Get title page
+[INFO ] 20-08-2025 22:35:51 [main] Log - Get title page
+[INFO ] 20-08-2025 22:35:51 [main] Log - Verify title page
+[INFO ] 20-08-2025 22:35:51 [main] Log - Get title page
+[INFO ] 20-08-2025 22:35:51 [main] Log - createEstimate test is passed.
+[INFO ] 20-08-2025 22:35:51 [main] Log - createContract test is starting...
+[INFO ] 20-08-2025 22:36:58 [main] Log - Click element By.xpath: //button[@data-modal-title='Create A New Contract']
+[INFO ] 20-08-2025 22:37:03 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 22:37:07 [main] Log - Set text AnhDLClient to By.xpath: //*[@id='main-body']/span/span/span[1]/input
+[INFO ] 20-08-2025 22:37:15 [main] Log - Set text AnhDLContact to By.id: doc_title
+[INFO ] 20-08-2025 22:37:15 [main] Log - Set text 08-16-2025 to By.xpath: //input[@class='form-control form-control-sm pickadate' and @name='doc_date_start']
+[INFO ] 20-08-2025 22:37:17 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:38:02 [main] Log - createContract test is passed.
+[INFO ] 20-08-2025 22:38:02 [main] Log - End testing DocumentModule
+[INFO ] 20-08-2025 22:38:05 [main] Log - Call tear down
+[INFO ] 20-08-2025 22:51:28 [main] Log - Call tear down
+[INFO ] 20-08-2025 22:52:18 [main] Log - Start testing DocumentModule
+[INFO ] 20-08-2025 22:52:18 [main] Log - createTask test is starting...
+[INFO ] 20-08-2025 22:53:50 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 20-08-2025 22:53:56 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 22:53:59 [main] Log - Set text AnhDLProject to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 20-08-2025 22:54:04 [main] Log - Set text AnhDLTask to By.id: task_title
+[INFO ] 20-08-2025 22:54:06 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:54:09 [main] Log - Click element By.xpath: //*[@id='list-page-actions']/button[5]
+[ERROR] 20-08-2025 22:54:19 [main] Log - createTask test is failed.
+[INFO ] 20-08-2025 22:54:19 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (3e8774678e5d723c439a45f6d169b1e2)
+[INFO ] 20-08-2025 22:54:19 [main] Log - Screenshot taken: createTask
+[INFO ] 20-08-2025 22:54:19 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 20-08-2025 22:54:20 [main] Log - End testing DocumentModule
+[INFO ] 20-08-2025 22:54:23 [main] Log - Call tear down
+[INFO ] 20-08-2025 22:57:42 [main] Log - Start testing DocumentModule
+[INFO ] 20-08-2025 22:57:42 [main] Log - createTask test is starting...
+[INFO ] 20-08-2025 22:59:15 [main] Log - Click element By.xpath: //button[@data-modal-title='Add A New Task']
+[INFO ] 20-08-2025 22:59:20 [main] Log - Click element By.xpath: //div[@id='commonModalBody']/descendant::span[1]/span[1]/span/span[2]
+[INFO ] 20-08-2025 22:59:23 [main] Log - Set text AnhDLProject to By.xpath: //body[@id='main-body']//span[3]/span/span[1]/input
+[INFO ] 20-08-2025 22:59:28 [main] Log - Set text AnhDLTask to By.id: task_title
+[INFO ] 20-08-2025 22:59:31 [main] Log - Click element By.id: commonModalSubmitButton
+[INFO ] 20-08-2025 22:59:34 [main] Log - Click element By.xpath: //*[@id='list-page-actions']/button[5]
+[ERROR] 20-08-2025 22:59:44 [main] Log - createTask test is failed.
+[INFO ] 20-08-2025 22:59:44 [main] Log - Driver for Screenshot: ChromeDriver: chrome on windows (f15c930404cb151a27e2ced15a83d387)
+[INFO ] 20-08-2025 22:59:44 [main] Log - Screenshot taken: createTask
+[INFO ] 20-08-2025 22:59:44 [main] Log - Screenshot taken current URL: https://demo.growcrm.io/tasks
+[INFO ] 20-08-2025 22:59:44 [main] Log - End testing DocumentModule
+[INFO ] 20-08-2025 22:59:47 [main] Log - Call tear down
+[INFO ] 20-08-2025 23:00:52 [main] Log - Start testing DocumentModule
+[INFO ] 20-08-2025 23:00:53 [main] Log - createTask test is starting...
+[INFO ] 20-08-2025 23:02:21 [main] Log - createTask test is passed.
+[INFO ] 20-08-2025 23:02:21 [main] Log - End testing DocumentModule
+[INFO ] 20-08-2025 23:02:24 [main] Log - Call tear down

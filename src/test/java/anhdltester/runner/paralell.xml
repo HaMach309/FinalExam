@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression Tests CRM" parallel="tests" thread-count="2">
+
+    <test name="SignIn Test CHROME">
+        <parameter name="browserType" value="chrome"/>
+        <parameter name="webUrl" value="https://demo.growcrm.io/login"/>
+        <classes>
+            <class name="test.java.anhdltester.testcases.ChromeTest"/>
+        </classes>
+    </test>
+    <test name="SignIn Test EDGE">
+        <parameter name="browserType" value="edge"/>
+        <parameter name="webUrl" value="https://www.google.com/"/>
+        <classes>
+            <class name="test.java.anhdltester.testcases.EdgeTest"/>
+        </classes>
+    </test>
+
+</suite>

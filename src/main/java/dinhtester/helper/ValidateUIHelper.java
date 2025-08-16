@@ -1,10 +1,7 @@
 package main.java.dinhtester.helper;
 
 import main.java.dinhtester.report.ExtentTestManager;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.*;
 import org.testng.Assert;
@@ -19,7 +16,7 @@ public class ValidateUIHelper {
 
     public ValidateUIHelper(WebDriver driver) {
         this.driver = driver;
-        wait = new WebDriverWait(this.driver, Duration.ofSeconds(5));
+        wait = new WebDriverWait(this.driver, Duration.ofSeconds(10));
 
     }
 
@@ -53,7 +50,15 @@ public class ValidateUIHelper {
         Select select = new Select(driver.findElement(element));
         select.selectByVisibleText(text);
     }
+    public void pressEnter() {
+        Actions actions = new Actions(driver);
+        actions.sendKeys(Keys.ENTER).perform();
+    }
 
+    public void pressTab() {
+        Actions actions = new Actions(driver);
+        actions.sendKeys(Keys.TAB).perform();
+    }
     public String getPageTitle() {
         Log.info("Get title page");
         if (ExtentTestManager.getTest() != null) {

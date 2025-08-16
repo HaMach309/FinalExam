@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-import test.java.dinhtester.base.BaseSetup;
+import test.java.anhdltester.base.BaseSetup;
 
 
 public class ReportListener implements ITestListener {
